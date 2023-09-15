@@ -36,14 +36,8 @@ http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6nKg3RzSuvvmhpUPFOPdAo/m3u8
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-yv5O8ionZBiqyXlIgwviw/m3u8
 #EXTINF:-1 xui-id="1333" tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU World" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JAVWi6_F2QBDzJ3t-oqmftFNzgqcjc3UVIq372sRDWer.png" group-title="LOKAL",BERITA SATU World
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-LZADWe0Z-yZDeW1DBMqKE/m3u8
-#EXTINF:-1 xui-id="1335" tvg-id="TVRI.MACAN" tvg-name="TVRI" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JGg_GAy9QlbPxsFmqVQNu-xYpIczHp9OdY0A1elGodGa.png" group-title="LOKAL",TVRI
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTyocc25MmoFRryzZdoc4WKI/m3u8
-#EXTINF:-1 xui-id="1338" tvg-id="JakTV.MACAN" tvg-name="JAKTV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JOdEGwBE55ru4-vEXDdjymnx9Uy5bpxNmBf5DSfR3gV2.png" group-title="LOKAL",JAKTV
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT4JOqQplAmiB_lcrbbQ1DDE/m3u8
-#EXTINF:-1 xui-id="1340" tvg-id="RTV1" tvg-name="RTV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLUKCxA_oMnqm7gaj467-VxlMC6h_nIsmFlwp23DHJae.png" group-title="LOKAL",RTV
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT7ur5fmG_3YbicH79LeVCIQ/m3u8
-#EXTINF:-1 xui-id="1342" tvg-id="DaaiTv.MACAN" tvg-name="DAAI TV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JGBSrjhptZXymWCGfGhQaDUzpXdZjXIwahwu923kzv4M.png" group-title="LOKAL",DAAI TV
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT5Ki832EHm3LHOtlynWOcME/m3u8
+
+
 #EXTINF:-1 xui-id="1345" tvg-id="TVONE" tvg-name="TV ONE" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JGWfd_QdH6c20zoorUDlyOEoFEODBvaR3ScRRBcygW_x.png" group-title="LOKAL",TV ONE
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6bLm4y0avDYMki1XIlXm7Y/m3u8
 #EXTINF:-1 xui-id="1346" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JGcGNyVYfoAaTaxvcqwnB1v3uRdw1YLKNfr_qACzjo6R.png" group-title="LOKAL",ANTV
@@ -52,5 +46,4 @@ http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT5A7viZt3na66autCBzpOe4/m3u8
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6B9ZXl6O_8JLjsHOaWrMss/m3u8
 #EXTINF:-1 xui-id="1348" tvg-id="BaliTV.MACAN" tvg-name="BALITV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JDB3Zxfe7A13xWgUrfL_y0paqgcXK2Xyzxeo9MxJNM9-.png" group-title="LOKAL",BALITV
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT4N_QZxTNY2kJ9B7uOJ78Uo/m3u8
-#EXTINF:-1 xui-id="1351" tvg-id="JTV.MACAN" tvg-name="JTV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JPn_av96pC-w0ykOHR-RJ9w2QQ5hVTGFhqBZ4EN3077P.png" group-title="LOKAL",JTV
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6zKHuOpDPcfDBheIxQr60I/m3u8
+
