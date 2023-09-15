@@ -85,18 +85,18 @@ http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-yv5O8ionZBiqyXlIgwviw/m3u8
 #EXTINF:-1 xui-id="1333" tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU World" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JAVWi6_F2QBDzJ3t-oqmftFNzgqcjc3UVIq372sRDWer.png" group-title="LOKAL",BERITA SATU World
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-LZADWe0Z-yZDeW1DBMqKE/m3u8
 #EXTINF:-1 xui-id="33400" tvg-name="ONE PIECE S01E01" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E01
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3QzTQQNXHfWSgAqK_seq74#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3QzTQQNXHfWSgAqK_seq74
 #EXTINF:-1 xui-id="33401" tvg-name="ONE PIECE S01E02" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E02
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRmx6lyDqiMWdjZHIDuMNA-40#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRmx6lyDqiMWdjZHIDuMNA-40
 #EXTINF:-1 xui-id="33402" tvg-name="ONE PIECE S01E03" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E03
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm0o7ci5NBTVNrrUPUg4kP_w#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm0o7ci5NBTVNrrUPUg4kP_w
 #EXTINF:-1 xui-id="33404" tvg-name="ONE PIECE S01E04" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E04
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm5SrgHSg6WLn2rIIYY3fkVU#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm5SrgHSg6WLn2rIIYY3fkVU
 #EXTINF:-1 xui-id="33405" tvg-name="ONE PIECE S01E05" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E05
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm2jFuyhPnS7cSromYV1H3ok#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm2jFuyhPnS7cSromYV1H3ok
 #EXTINF:-1 xui-id="33406" tvg-name="ONE PIECE S01E06" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E06
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3-JK_2syKMI3ZVoHQHVxZQ#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3-JK_2syKMI3ZVoHQHVxZQ
 #EXTINF:-1 xui-id="33407" tvg-name="ONE PIECE S01E07" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E07
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRmxLe2yHocf2kL4Q5obeVm3M#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRmxLe2yHocf2kL4Q5obeVm3M
 #EXTINF:-1 xui-id="33408" tvg-name="ONE PIECE S01E08" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E08
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3l21VAUZC0gnEggI-_1QWI#.mp4
+http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3l21VAUZC0gnEggI-_1QWI
