@@ -84,19 +84,1048 @@ http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6nKg3RzSuvvmhpUPFOPdAo/m3u8
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-yv5O8ionZBiqyXlIgwviw/m3u8
 #EXTINF:-1 xui-id="1333" tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU World" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JAVWi6_F2QBDzJ3t-oqmftFNzgqcjc3UVIq372sRDWer.png" group-title="LOKAL",BERITA SATU World
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-LZADWe0Z-yZDeW1DBMqKE/m3u8
-#EXTINF:-1 xui-id="33400" tvg-name="ONE PIECE S01E01" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E01
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3QzTQQNXHfWSgAqK_seq74
-#EXTINF:-1 xui-id="33401" tvg-name="ONE PIECE S01E02" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E02
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRmx6lyDqiMWdjZHIDuMNA-40
-#EXTINF:-1 xui-id="33402" tvg-name="ONE PIECE S01E03" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E03
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm0o7ci5NBTVNrrUPUg4kP_w
-#EXTINF:-1 xui-id="33404" tvg-name="ONE PIECE S01E04" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E04
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm5SrgHSg6WLn2rIIYY3fkVU
-#EXTINF:-1 xui-id="33405" tvg-name="ONE PIECE S01E05" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E05
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm2jFuyhPnS7cSromYV1H3ok
-#EXTINF:-1 xui-id="33406" tvg-name="ONE PIECE S01E06" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E06
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3-JK_2syKMI3ZVoHQHVxZQ
-#EXTINF:-1 xui-id="33407" tvg-name="ONE PIECE S01E07" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E07
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRmxLe2yHocf2kL4Q5obeVm3M
-#EXTINF:-1 xui-id="33408" tvg-name="ONE PIECE S01E08" tvg-logo="http://ogietv.biz.id:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWFVOpo_6jSJ3sF01iK0-1oDR6KGm-Dsek_V9TwygQHbC1slZ_Ot_seaskUY-JyEHo.jpg" group-title="West Series",ONE PIECE S01E08
-http://ogietv.biz.id:80/play/OJGWUCKg9TN9Ug7_ReeRm3l21VAUZC0gnEggI-_1QWI
+----------------------------------------------------------------PHILIPHINA--------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="ABS Cbn PH" tvg-logo="" group-title="Philippines",ABS Cbn PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31053
+#EXTINF:-1 tvg-id="" tvg-name="ABS CBN Sports Action PH" tvg-logo="" group-title="Philippines",ABS CBN Sports Action PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498597
+#EXTINF:-1 tvg-id="" tvg-name="AFN PH" tvg-logo="" group-title="Philippines",AFN PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498598
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera PH " tvg-logo="" group-title="Philippines",Al Jazeera PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463608
+#EXTINF:-1 tvg-id="anc.ph" tvg-name="ANC PH" tvg-logo="" group-title="Philippines",ANC PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31052
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD PH" tvg-logo="" group-title="Philippines",Animal Planet HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143967
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet PH" tvg-logo="" group-title="Philippines",Animal Planet PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31051
+#EXTINF:-1 tvg-id="" tvg-name="Animax PH" tvg-logo="" group-title="Philippines",Animax PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463609
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus HD PH" tvg-logo="" group-title="Philippines",Aniplus HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463610
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus PH" tvg-logo="" group-title="Philippines",Aniplus PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31049
+#EXTINF:-1 tvg-id="" tvg-name="Arabic TFC PH" tvg-logo="" group-title="Philippines",Arabic TFC PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498599
+#EXTINF:-1 tvg-id="" tvg-name="Arirang PH" tvg-logo="" group-title="Philippines",Arirang PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463611
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food HD PH " tvg-logo="" group-title="Philippines",Asian Food HD PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463612
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food PH" tvg-logo="" group-title="Philippines",Asian Food PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141593
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD PH" tvg-logo="" group-title="Philippines",AXN HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143971
+#EXTINF:-1 tvg-id="" tvg-name="AXN PH" tvg-logo="" group-title="Philippines",AXN PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463613
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD PH" tvg-logo="" group-title="Philippines",BBC Earth HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463614
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News PH" tvg-logo="" group-title="Philippines",BBC World News PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463615
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 PH" tvg-logo="" group-title="Philippines",beIN Sports 3 PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463617
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg PH" tvg-logo="" group-title="Philippines",Bloomberg PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463618
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD PH" tvg-logo="" group-title="Philippines",Boomerang HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143972
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang PH " tvg-logo="" group-title="Philippines",Boomerang PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463619
+#EXTINF:-1 tvg-id="" tvg-name="Buko PH" tvg-logo="" group-title="Philippines",Buko PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463620
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4 PH" tvg-logo="" group-title="Philippines",CCTV 4 PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463621
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movie Pinoy PH" tvg-logo="" group-title="Philippines",Celestial Movie Pinoy PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463622
+#EXTINF:-1 tvg-id="" tvg-name="CGTN PH" tvg-logo="" group-title="Philippines",CGTN PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463623
+#EXTINF:-1 tvg-id="" tvg-name="CGTV DOC PH" tvg-logo="" group-title="Philippines",CGTV DOC PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498601
+#EXTINF:-1 tvg-id="cinemaone.ph" tvg-name="Cinema One PH" tvg-logo="" group-title="Philippines",Cinema One PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/35396
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World PH" tvg-logo="" group-title="Philippines",Cinema World PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463624
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemo HD PH" tvg-logo="" group-title="Philippines",Cinemo HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143984
+#EXTINF:-1 tvg-id="" tvg-name="Cinemo HD PH" tvg-logo="" group-title="Philippines",Cinemo HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143986
+#EXTINF:-1 tvg-id="" tvg-name="Cinemo Nola PH" tvg-logo="" group-title="Philippines",Cinemo Nola PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498603
+
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation PH" tvg-logo="" group-title="Philippines",Crime Investigation PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141595
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel PH" tvg-logo="" group-title="Philippines",Discovery Channel PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144009
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks PH" tvg-logo="" group-title="Philippines",DreamWorks PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/35394
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD PH" tvg-logo="" group-title="Philippines",Fashion TV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144019
+#EXTINF:-1 tvg-id="" tvg-name="Food Network PH" tvg-logo="" group-title="Philippines",Food Network PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141599
+
+#EXTINF:-1 tvg-id="gmalife.ph" tvg-name="GMA Life PH" tvg-logo="" group-title="Philippines",GMA Life PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/41228
+#EXTINF:-1 tvg-id="gmalife.ph" tvg-name="GMA Life TV HD PH" tvg-logo="" group-title="Philippines",GMA Life TV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33271
+#EXTINF:-1 tvg-id="gmanewstv.ph" tvg-name="GMA News PH" tvg-logo="" group-title="Philippines",GMA News PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/41227
+#EXTINF:-1 tvg-id="gmanewstv.ph" tvg-name="GMA News TV HD PH" tvg-logo="" group-title="Philippines",GMA News TV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33270
+#EXTINF:-1 tvg-id="" tvg-name="GMA News TV HD PH" tvg-logo="" group-title="Philippines",GMA News TV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144002
+#EXTINF:-1 tvg-id="gmapinoy.ph" tvg-name="GMA Pinoy TV HD PH" tvg-logo="" group-title="Philippines",GMA Pinoy TV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33269
+#EXTINF:-1 tvg-id="" tvg-name="Hilsong Channel PH" tvg-logo="" group-title="Philippines",Hilsong Channel PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498612
+#EXTINF:-1 tvg-id="" tvg-name="History HD PH" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="Philippines",History HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144039
+#EXTINF:-1 tvg-id="" tvg-name="HITS HD PH" tvg-logo="" group-title="Philippines",HITS HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144024
+#EXTINF:-1 tvg-id="" tvg-name="HITS Movies PH" tvg-logo="" group-title="Philippines",HITS Movies PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144038
+#EXTINF:-1 tvg-id="" tvg-name="IBC 13 PH" tvg-logo="" group-title="Philippines",IBC 13 PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463627
+#EXTINF:-1 tvg-id="" tvg-name="K-Plus PH" tvg-logo="" group-title="Philippines",K-Plus PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463628
+#EXTINF:-1 tvg-id="" tvg-name="KBS World PH" tvg-logo="" group-title="Philippines",KBS World PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463629
+#EXTINF:-1 tvg-id="" tvg-name="Kix HD PH" tvg-logo="" group-title="Philippines",Kix HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463630
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime PH " tvg-logo="" group-title="Philippines",Lifetime PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463632
+#EXTINF:-1 tvg-id="" tvg-name="Light TV PH" tvg-logo="" group-title="Philippines",Light TV PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498618
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids PH" tvg-logo="" group-title="Philippines",Moonbug Kids PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463633
+#EXTINF:-1 tvg-id="" tvg-name="MOR PH" tvg-logo="" group-title="Philippines",MOR PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498619
+#EXTINF:-1 tvg-id="" tvg-name="MTV Asia PH" tvg-logo="" group-title="Philippines",MTV Asia PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463634
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD PH" tvg-logo="" group-title="Philippines",National Geographic HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463637
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan PH" tvg-logo="" group-title="Philippines",NHK World Japan PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463638
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr PH" tvg-logo="" group-title="Philippines",Nick Jr PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463639
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD PH" tvg-logo="" group-title="Philippines",Nickelodeon HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144029
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon PH " tvg-logo="" group-title="Philippines",Nickelodeon PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463640
+#EXTINF:-1 tvg-id="" tvg-name="One News HD PH" tvg-logo="" group-title="Philippines",One News HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143991
+
+#EXTINF:-1 tvg-id="" tvg-name="One PH " tvg-logo="" group-title="Philippines",One PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463642
+#EXTINF:-1 tvg-id="" tvg-name="One Sports PH" tvg-logo="" group-title="Philippines",One Sports PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463643
+#EXTINF:-1 tvg-id="" tvg-name="One Sports+ PH" tvg-logo="" group-title="Philippines",One Sports+ PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463644
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor PH " tvg-logo="" group-title="Philippines",Outdoor PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463645
+#EXTINF:-1 tvg-id="" tvg-name="Paramount PH" tvg-logo="" group-title="Philippines",Paramount PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463646
+#EXTINF:-1 tvg-id="" tvg-name="PBA Rush PH" tvg-logo="" group-title="Philippines",PBA Rush PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463647
+#EXTINF:-1 tvg-id="" tvg-name="PBO PH" tvg-logo="" group-title="Philippines",PBO PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498621
+#EXTINF:-1 tvg-id="" tvg-name="Pinoy Box Office PH" tvg-logo="" group-title="Philippines",Pinoy Box Office PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463648
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sports HD PH" tvg-logo="" group-title="Philippines",Premier Sports HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463651
+#EXTINF:-1 tvg-id="" tvg-name="PTV 4 PH" tvg-logo="" group-title="Philippines",PTV 4 PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463652
+#EXTINF:-1 tvg-id="" tvg-name="PTV News PH" tvg-logo="" group-title="Philippines",PTV News PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498624
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment PH" tvg-logo="" group-title="Philippines",Rock Entertainment PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463653
+#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme PH" tvg-logo="" group-title="Philippines",Rock Extreme PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463654
+
+#EXTINF:-1 tvg-id="" tvg-name="Sari-Sari PH" tvg-logo="" group-title="Philippines",Sari-Sari PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463655
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2 HD PH" tvg-logo="" group-title="Philippines",SPOTV 2 HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463656
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV HD PH" tvg-logo="" group-title="Philippines",SPOTV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463657
+#EXTINF:-1 tvg-id="" tvg-name="Tap Action Flix HD PH" tvg-logo="" group-title="Philippines",Tap Action Flix HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463658
+#EXTINF:-1 tvg-id="" tvg-name="Tap Edge PH" tvg-logo="" group-title="Philippines",Tap Edge PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463659
+#EXTINF:-1 tvg-id="" tvg-name="TAP Movies HD PH" tvg-logo="" group-title="Philippines",TAP Movies HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463660
+#EXTINF:-1 tvg-id="" tvg-name="Tap Sports PH" tvg-logo="" group-title="Philippines",Tap Sports PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463661
+#EXTINF:-1 tvg-id="" tvg-name="TAP TV PH" tvg-logo="" group-title="Philippines",TAP TV PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463662
+#EXTINF:-1 tvg-id="" tvg-name="TechStorm PH" tvg-logo="" group-title="Philippines",TechStorm PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463663
+#EXTINF:-1 tvg-id="" tvg-name="TeleNovela Channel PH" tvg-logo="" group-title="Philippines",TeleNovela Channel PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463664
+#EXTINF:-1 tvg-id="" tvg-name="TFC Australia PH" tvg-logo="" group-title="Philippines",TFC Australia PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498628
+#EXTINF:-1 tvg-id="" tvg-name="TFC Canada PH" tvg-logo="" group-title="Philippines",TFC Canada PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498629
+
+#EXTINF:-1 tvg-id="tfc.ph" tvg-name="TFC HD PH" tvg-logo="" group-title="Philippines",TFC HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33267
+
+#EXTINF:-1 tvg-id="tfc.ph" tvg-name="TFC PH" tvg-logo="" group-title="Philippines",TFC PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/41224
+
+#EXTINF:-1 tvg-id="" tvg-name="Thill PH" tvg-logo="" group-title="Philippines",Thill PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498633
+#EXTINF:-1 tvg-id="" tvg-name="Thrill PH " tvg-logo="" group-title="Philippines",Thrill PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463665
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD PH" tvg-logo="" group-title="Philippines",TLC HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144047
+#EXTINF:-1 tvg-id="" tvg-name="TLC PH " tvg-logo="" group-title="Philippines",TLC PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463666
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD PH " tvg-logo="" group-title="Philippines",Travel Channel HD PH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463667
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel PH" tvg-logo="" group-title="Philippines",Travel Channel PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144048
+#EXTINF:-1 tvg-id="" tvg-name="Travel PH" tvg-logo="" group-title="Philippines",Travel PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141606
+#EXTINF:-1 tvg-id="" tvg-name="TV Maria PH" tvg-logo="" group-title="Philippines",TV Maria PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498634
+
+#EXTINF:-1 tvg-id="" tvg-name="TV5 PH" tvg-logo="" group-title="Philippines",TV5 PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463668
+
+#EXTINF:-1 tvg-id="" tvg-name="Viva Cinema HD PH" tvg-logo="" group-title="Philippines",Viva Cinema HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463671
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD PH" tvg-logo="" group-title="Philippines",Warner TV HD PH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463672  
+---------------------------------------------------------------------------------------------VIETNAM--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="animalplanet.vn" tvg-name="Animal Planet HD VN" tvg-logo="" group-title="Vietnam",Animal Planet HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115242
+#EXTINF:-1 tvg-id="" tvg-name="ANTV Cine M VN" tvg-logo="" group-title="Vietnam",ANTV Cine M VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/119464
+#EXTINF:-1 tvg-id="" tvg-name="ANTV HD VN" tvg-logo="" group-title="Vietnam",ANTV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115219
+#EXTINF:-1 tvg-id="" tvg-name="ANTV VN" tvg-logo="" group-title="Vietnam",ANTV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115249
+#EXTINF:-1 tvg-id="" tvg-name="ATV VN" tvg-logo="" group-title="Vietnam",ATV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115259
+
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT EXTREME HD VN" tvg-logo="" group-title="Vietnam",BLUE ANT EXTREME HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115236
+#EXTINF:-1 tvg-id="" tvg-name="Brian TV HD VN" tvg-logo="" group-title="Vietnam",Brian TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116083
+#EXTINF:-1 tvg-id="" tvg-name="BRT HD VN" tvg-logo="" group-title="Vietnam",BRT HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115265
+#EXTINF:-1 tvg-id="" tvg-name="CNN VN" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/800x451x1653982215/cmc_new/img.live_channel/0/0/0/0/176_logo_raw.png" group-title="Vietnam",CNN VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115237
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Nang TV1 VN" tvg-logo="" group-title="Vietnam",Da Nang TV1 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115217
+#EXTINF:-1 tvg-id="" tvg-name="Da Nang TV2 VN" tvg-logo="" group-title="Vietnam",Da Nang TV2 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115218
+#EXTINF:-1 tvg-id="" tvg-name="Dhammasapha TV HD VN" tvg-logo="" group-title="Vietnam",Dhammasapha TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116086
+#EXTINF:-1 tvg-id="" tvg-name="FBNC VN" tvg-logo="" group-title="Vietnam",FBNC VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115200
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise (Sling) VN" tvg-logo="" group-title="Vietnam",FilmRise (Sling) VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115264
+#EXTINF:-1 tvg-id="" tvg-name="Gia Lai TV HD VN" tvg-logo="" group-title="Vietnam",Gia Lai TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116087
+#EXTINF:-1 tvg-id="" tvg-name="Good Idea TV HD VN" tvg-logo="" group-title="Vietnam",Good Idea TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116088
+#EXTINF:-1 tvg-id="" tvg-name="HBTV  VN" tvg-logo="" group-title="Vietnam",HBTV  VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115262
+#EXTINF:-1 tvg-id="" tvg-name="Hmong Star TV HD VN" tvg-logo="" group-title="Vietnam",Hmong Star TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116089
+#EXTINF:-1 tvg-id="" tvg-name="Hmong TV Network HD VN" tvg-logo="" group-title="Vietnam",Hmong TV Network HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116090
+#EXTINF:-1 tvg-id="" tvg-name="HmongUSA TV HD VN" tvg-logo="" group-title="Vietnam",HmongUSA TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116091
+#EXTINF:-1 tvg-id="" tvg-name="Horror (VietSling) VN" tvg-logo="" group-title="Vietnam",Horror (VietSling) VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115229
+#EXTINF:-1 tvg-id="" tvg-name="Houng Fa HD VN" tvg-logo="" group-title="Vietnam",Houng Fa HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116092
+#EXTINF:-1 tvg-id="" tvg-name="HTV 2 HD VN" tvg-logo="" group-title="Vietnam",HTV 2 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115209
+#EXTINF:-1 tvg-id="" tvg-name="HTV 3 HD VN" tvg-logo="" group-title="Vietnam",HTV 3 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115210
+#EXTINF:-1 tvg-id="" tvg-name="HTV 7 HD VN" tvg-logo="" group-title="Vietnam",HTV 7 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115211
+#EXTINF:-1 tvg-id="" tvg-name="HTV 9 HD VN" tvg-logo="" group-title="Vietnam",HTV 9 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115212
+#EXTINF:-1 tvg-id="" tvg-name="HTVC Dulich VN" tvg-logo="" group-title="Vietnam",HTVC Dulich VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115205
+#EXTINF:-1 tvg-id="" tvg-name="HTVC Giadinh VN" tvg-logo="" group-title="Vietnam",HTVC Giadinh VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115203
+#EXTINF:-1 tvg-id="" tvg-name="HTVC Phim VN" tvg-logo="" group-title="Vietnam",HTVC Phim VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115204
+#EXTINF:-1 tvg-id="" tvg-name="HTVC Thuan Viet VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png" group-title="Vietnam",HTVC Thuan Viet VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115202
+#EXTINF:-1 tvg-id="" tvg-name="IMovie VN" tvg-logo="" group-title="Vietnam",IMovie VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115208
+#EXTINF:-1 tvg-id="" tvg-name="ISTV HD VN" tvg-logo="" group-title="Vietnam",ISTV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116093
+#EXTINF:-1 tvg-id="" tvg-name="KDHL Television VN" tvg-logo="" group-title="Vietnam",KDHL Television VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/119463
+#EXTINF:-1 tvg-id="" tvg-name="KhmerTV FHD VN" tvg-logo="" group-title="Vietnam",KhmerTV FHD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116094
+#EXTINF:-1 tvg-id="" tvg-name="Khomsanh TV HD VN" tvg-logo="" group-title="Vietnam",Khomsanh TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116095
+#EXTINF:-1 tvg-id="" tvg-name="La 34 Viet VN" tvg-logo="" group-title="Vietnam",La 34 Viet VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115228
+#EXTINF:-1 tvg-id="" tvg-name="LA34 HD VN" tvg-logo="" group-title="Vietnam",LA34 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115269
+#EXTINF:-1 tvg-id="" tvg-name="Lao Champa TV 1 HD VN" tvg-logo="" group-title="Vietnam",Lao Champa TV 1 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116098
+#EXTINF:-1 tvg-id="" tvg-name="Lao Champa TV 2 HD VN" tvg-logo="" group-title="Vietnam",Lao Champa TV 2 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116097
+#EXTINF:-1 tvg-id="" tvg-name="Lao Champa TV 3 HD VN" tvg-logo="" group-title="Vietnam",Lao Champa TV 3 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116099
+#EXTINF:-1 tvg-id="" tvg-name="Lao Heritage Foundation TV HD VN" tvg-logo="" group-title="Vietnam",Lao Heritage Foundation TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116100
+#EXTINF:-1 tvg-id="" tvg-name="Lao Net TV HD VN" tvg-logo="" group-title="Vietnam",Lao Net TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116101
+#EXTINF:-1 tvg-id="" tvg-name="Lao SV TV VN" tvg-logo="" group-title="Vietnam",Lao SV TV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116102
+#EXTINF:-1 tvg-id="" tvg-name="Lao-Thai US TV HD VN" tvg-logo="" group-title="Vietnam",Lao-Thai US TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116103
+#EXTINF:-1 tvg-id="" tvg-name="Look Thoong TV HD VN" tvg-logo="" group-title="Vietnam",Look Thoong TV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116104
+#EXTINF:-1 tvg-id="" tvg-name="LS TV VN" tvg-logo="" group-title="Vietnam",LS TV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116105
+#EXTINF:-1 tvg-id="" tvg-name="NAT TV FHD VN" tvg-logo="" group-title="Vietnam",NAT TV FHD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116106
+#EXTINF:-1 tvg-id="" tvg-name="Ning TV VN" tvg-logo="" group-title="Vietnam",Ning TV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115232
+#EXTINF:-1 tvg-id="" tvg-name="Nữ Thần Chiến Binh 1984 FULL THUYẾT MINH VN" tvg-logo="" group-title="Vietnam",Nữ Thần Chiến Binh 1984 FULL THUYẾT MINH VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115254
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD VN" tvg-logo="" group-title="Vietnam",Paramount HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115250
+#EXTINF:-1 tvg-id="" tvg-name="PNTV HD VN" tvg-logo="" group-title="Vietnam",PNTV HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116107
+#EXTINF:-1 tvg-id="" tvg-name="PTP HD VN" tvg-logo="" group-title="Vietnam",PTP HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115270
+#EXTINF:-1 tvg-id="" tvg-name="QRT HD VN" tvg-logo="" group-title="Vietnam",QRT HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115221
+#EXTINF:-1 tvg-id="" tvg-name="Star World (Beam East VN)" tvg-logo="" group-title="Vietnam",Star World (Beam East VN)
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115258
+#EXTINF:-1 tvg-id="" tvg-name="THBT Viet VN" tvg-logo="" group-title="Vietnam",THBT Viet VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115213
+#EXTINF:-1 tvg-id="" tvg-name="The Thao VN" tvg-logo="" group-title="Vietnam",The Thao VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115201
+#EXTINF:-1 tvg-id="" tvg-name="THGL VN" tvg-logo="" group-title="Vietnam",THGL VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115271
+#EXTINF:-1 tvg-id="" tvg-name="THTG Channel VN" tvg-logo="" group-title="Vietnam",THTG Channel VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115223
+#EXTINF:-1 tvg-id="" tvg-name="THTG VN" tvg-logo="" group-title="Vietnam",THTG VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115272
+#EXTINF:-1 tvg-id="" tvg-name="Thám Hiểm Rừng Xanh FULL VIETSUB VN" tvg-logo="" group-title="Vietnam",Thám Hiểm Rừng Xanh FULL VIETSUB VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115251
+#EXTINF:-1 tvg-id="" tvg-name="Travinh VN" tvg-logo="" group-title="Vietnam",Travinh VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115206
+#EXTINF:-1 tvg-id="" tvg-name="V2H2 VN" tvg-logo="" group-title="Vietnam",V2H2 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115273
+#EXTINF:-1 tvg-id="" tvg-name="Viet Mov (En) VN" tvg-logo="" group-title="Vietnam",Viet Mov (En) VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115230
+#EXTINF:-1 tvg-id="" tvg-name="Viet Movie 1 VN" tvg-logo="" group-title="Vietnam",Viet Movie 1 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115266
+#EXTINF:-1 tvg-id="" tvg-name="Viet Movie 2 VN" tvg-logo="" group-title="Vietnam",Viet Movie 2 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115267
+#EXTINF:-1 tvg-id="" tvg-name="Viet Movie 3 VN" tvg-logo="" group-title="Vietnam",Viet Movie 3 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115268
+#EXTINF:-1 tvg-id="" tvg-name="Viet My VN" tvg-logo="" group-title="Vietnam",Viet My VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115216
+#EXTINF:-1 tvg-id="" tvg-name="Vietmagazine VN" tvg-logo="" group-title="Vietnam",Vietmagazine VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115252
+#EXTINF:-1 tvg-id="" tvg-name="VietMy VN" tvg-logo="" group-title="Vietnam",VietMy VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115260
+#EXTINF:-1 tvg-id="" tvg-name="VietNews Saigon VN" tvg-logo="" group-title="Vietnam",VietNews Saigon VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115261
+#EXTINF:-1 tvg-id="" tvg-name="Vietnews VN" tvg-logo="" group-title="Vietnam",Vietnews VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115215
+#EXTINF:-1 tvg-id="" tvg-name="VITV VN" tvg-logo="" group-title="Vietnam",VITV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115224
+#EXTINF:-1 tvg-id="" tvg-name="VTV 1 VN" tvg-logo="" group-title="Vietnam",VTV 1 VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115231
+#EXTINF:-1 tvg-id="" tvg-name="VTV 1 HD VN" tvg-logo="" group-title="Vietnam",VTV 1 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115186
+#EXTINF:-1 tvg-id="" tvg-name="VTV 2 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png" group-title="Vietnam",VTV 2 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115187
+#EXTINF:-1 tvg-id="" tvg-name="VTV 3 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png" group-title="Vietnam",VTV 3 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115188
+#EXTINF:-1 tvg-id="" tvg-name="VTV 4 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png" group-title="Vietnam",VTV 4 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115189
+#EXTINF:-1 tvg-id="" tvg-name="VTV 5 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822547208/f54ea5aae42c_480_270.png" group-title="Vietnam",VTV 5 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115190
+#EXTINF:-1 tvg-id="" tvg-name="VTV 6 HD VN" tvg-logo="" group-title="Vietnam",VTV 6 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115191
+#EXTINF:-1 tvg-id="" tvg-name="VTV 7 HD VN" tvg-logo="" group-title="Vietnam",VTV 7 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115192
+#EXTINF:-1 tvg-id="" tvg-name="VTV 8 HD VN" tvg-logo="" group-title="Vietnam",VTV 8 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115193
+#EXTINF:-1 tvg-id="" tvg-name="VTV 9 HD VN" tvg-logo="" group-title="Vietnam",VTV 9 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115194
+#EXTINF:-1 tvg-id="" tvg-name="VTC 1 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822333227/695ef75f0c5b_480_270.png" group-title="Vietnam",VTC 1 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115195
+#EXTINF:-1 tvg-id="" tvg-name="VTC 9 HD VN" tvg-logo="" group-title="Vietnam",VTC 9 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115197
+#EXTINF:-1 tvg-id="" tvg-name="VTC 14 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822452264/9aee0be36d19_480_270.png" group-title="Vietnam",VTC 14 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115198
+#EXTINF:-1 tvg-id="" tvg-name="VTC 16 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6_480_270.png" group-title="Vietnam",VTC 16 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115199
+#EXTINF:-1 tvg-id="" tvg-name="VTC 3 HD VN" tvg-logo="" group-title="Vietnam",VTC 3 HD VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115196
+#EXTINF:-1 tvg-id="" tvg-name="Vung Tau TV VN" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/800x451x1647312718/cmc_new/img.live_channel/0/0/0/0/18_logo_raw.png" group-title="Vietnam",Vung Tau TV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115225
+#EXTINF:-1 tvg-id="" tvg-name="You TV VN" tvg-logo="" group-title="Vietnam",You TV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115207
+#EXTINF:-1 tvg-id="" tvg-name="YTV VN" tvg-logo="" group-title="Vietnam",YTV VN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115226
+------------------------------------------------------------------------------------------THAILAND---------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Black Cinema (Sling) TH" tvg-logo="" group-title="Thailand",Black Cinema (Sling) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563014
+#EXTINF:-1 tvg-id="" tvg-name="-= Thailand =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Thailand.png" group-title="Thailand",-= Thailand =-
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/16619
+#EXTINF:-1 tvg-id="" tvg-name="&flix (Movies) TH" tvg-logo="" group-title="Thailand",&flix (Movies) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115601
+#EXTINF:-1 tvg-id="" tvg-name="&pictures TH" tvg-logo="" group-title="Thailand",&pictures TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115602
+#EXTINF:-1 tvg-id="" tvg-name="&prive (Movies) TH" tvg-logo="" group-title="Thailand",&prive (Movies) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115603
+#EXTINF:-1 tvg-id="" tvg-name="69TV TH" tvg-logo="" group-title="Thailand",69TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115604
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia TH" tvg-logo="" group-title="Thailand",ABC Australia TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115605
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Asia TH" tvg-logo="" group-title="Thailand",Al Jazeera Asia TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115606
+#EXTINF:-1 tvg-id="" tvg-name="Amarin HD TH" tvg-logo="" group-title="Thailand",Amarin HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115297
+#EXTINF:-1 tvg-id="" tvg-name="AMARIN TH" tvg-logo="" group-title="Thailand",AMARIN TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115608
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet TH" tvg-logo="" group-title="Thailand",Animal Planet TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115610
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS TH" tvg-logo="" group-title="Thailand",ANIPLUS TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115609
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TH" tvg-logo="" group-title="Thailand",Arirang TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115308
+#EXTINF:-1 tvg-id="asianfoodchannel.th" tvg-name="Asian Food Channel TH" tvg-logo="" group-title="Thailand",Asian Food Channel TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115611
+#EXTINF:-1 tvg-id="trueasianseries.th" tvg-name="Asian Series HD TH" tvg-logo="" group-title="Thailand",Asian Series HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115612
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="" group-title="Thailand",Astro Cricket HD TH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115614
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115615
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115616
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115618
+#EXTINF:-1 tvg-id="" tvg-name="ASTV News HD TH" tvg-logo="" group-title="Thailand",ASTV News HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38202
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD TH" tvg-logo="" group-title="Thailand",AXN HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115619
+#EXTINF:-1 tvg-id="" tvg-name="AXN TH" tvg-logo="" group-title="Thailand",AXN TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115620
+#EXTINF:-1 tvg-id="" tvg-name="Asian More HD (Truevision) TH" tvg-logo="" group-title="Thailand",Asian More HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563002
+#EXTINF:-1 tvg-id="" tvg-name="Asian More SD (Truevision) TH" tvg-logo="" group-title="Thailand",Asian More SD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563003
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV TH" tvg-logo="data:image/png;base64,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" group-title="Thailand",Baby TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115410
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth /FoxFam HD TH" tvg-logo="" group-title="Thailand",BBC Earth /FoxFam HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115622
+#EXTINF:-1 tvg-id="bbcearth.th" tvg-name="BBC Earth HD TH" tvg-logo="" group-title="Thailand",BBC Earth HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115621
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth [Thai] TH" tvg-logo="" group-title="Thailand",BBC Earth [Thai] TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115624
+#EXTINF:-1 tvg-id="bbclife.th" tvg-name="BBC Lifestyle HD/Disc.Science [Thai] TH" tvg-logo="" group-title="Thailand",BBC Lifestyle HD/Disc.Science [Thai] TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115625
+#EXTINF:-1 tvg-id="bbclife.th" tvg-name="BBC Lifestyle HD TH" tvg-logo="" group-title="Thailand",BBC Lifestyle HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115626
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD TH" tvg-logo="" group-title="Thailand",BBC World News HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115627
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD TH" tvg-logo="" group-title="Thailand",Blue Ant Entertainment HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115628
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment TH" tvg-logo="" group-title="Thailand",Blue Ant Entertainment TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115629
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD TH" tvg-logo="" group-title="Thailand",Blue Ant Extreme HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115630
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme TH" tvg-logo="" group-title="Thailand",Blue Ant Extreme TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115631
+#EXTINF:-1 tvg-id="" tvg-name="Boonniyom TV HD TH" tvg-logo="" group-title="Thailand",Boonniyom TV HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115834
+#EXTINF:-1 tvg-id="" tvg-name="BTV Mekhong TH" tvg-logo="" group-title="Thailand",BTV Mekhong TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115312
+#EXTINF:-1 tvg-id="" tvg-name="BTV News TH" tvg-logo="" group-title="Thailand",BTV News TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38173
+#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="" group-title="Thailand",CABLE SERIES 1 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115598
+#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 2 TH" tvg-logo="" group-title="Thailand",CABLE SERIES 2 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115599
+#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 3 HD TH" tvg-logo="" group-title="Thailand",CABLE SERIES 3 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115600
+#EXTINF:-1 tvg-id="" tvg-name="CableMovie TH [Thai]" tvg-logo="" group-title="Thailand",CableMovie TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115655
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Club TH" tvg-logo="" group-title="Thailand",Cartoon Club TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115324
+#EXTINF:-1 tvg-id="cartoonnetwork.th" tvg-name="Cartoon Network HD TH" tvg-logo="" group-title="Thailand",Cartoon Network HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115632
+#EXTINF:-1 tvg-id="cartoonnetwork.th" tvg-name="CartoonClub TH" tvg-logo="" group-title="Thailand",CartoonClub TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115633
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies TH" tvg-logo="" group-title="Thailand",Celestial Classic Movies TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115635
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies [Thai-ENG] TH" tvg-logo="" group-title="Thailand",Celestial Classic Movies [Thai-ENG] TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115636
+#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="" group-title="Thailand",Ch8 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115341
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo="" group-title="Thailand",Channel 3 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115313
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD TH" tvg-logo="" group-title="Thailand",Channel 5 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115640
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 TH" tvg-logo="" group-title="Thailand",Channel 5 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115641
+#EXTINF:-1 tvg-id="" tvg-name="Channel 7 HD TH" tvg-logo="" group-title="Thailand",Channel 7 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115642
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8 TH" tvg-logo="" group-title="Thailand",Channel 8 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115644
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD TH" tvg-logo="" group-title="Thailand",CINEMAX HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116078
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax TH" tvg-logo="" group-title="Thailand",Cinemax TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115646
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX TH" tvg-logo="" group-title="Thailand",CINEMAX TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116079
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia TH" tvg-logo="" group-title="Thailand",CNN Indonesia TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115307
+#EXTINF:-1 tvg-id="" tvg-name="CNN TH" tvg-logo="" group-title="Thailand",CNN TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115634
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation TH" tvg-logo="" group-title="Thailand",Crime & Investigation TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115649
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+ Sport HD (CN) TH" tvg-logo="" group-title="Thailand",CCTV 5+ Sport HD (CN) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563008
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia TH" tvg-logo="" group-title="Thailand",Channel News Asia TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563000
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia TH" tvg-logo="" group-title="Thailand",CNBC Asia TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562999
+#EXTINF:-1 tvg-id="" tvg-name="Chinese More HD (Truevision) TH" tvg-logo="" group-title="Thailand",Chinese More HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563004
+#EXTINF:-1 tvg-id="" tvg-name="Chinese More (Truevision) TH" tvg-logo="" group-title="Thailand",Chinese More (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563005
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Discovery Asia HD TH [Thai-ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115650
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Discovery HD TH [Thai-ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115652
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TH" tvg-logo="" group-title="Thailand",Discovery TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115399
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior [Thai] TH" tvg-logo="" group-title="Thailand",Disney Junior [Thai] TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115654
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 1 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 1 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115835
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 10 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 10 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115844
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 11 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 11 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115845
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 12 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 12 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115846
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 13 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 13 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115847
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 14 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 14 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115848
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 15 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 15 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115849
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 2 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115836
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 3 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 3 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115837
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 4 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 4 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115838
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 5 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 5 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115839
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 6 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 6 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115840
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 7 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 7 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115841
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 8 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 8 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115842
+#EXTINF:-1 tvg-id="" tvg-name="DLTV 9 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 9 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115843
+#EXTINF:-1 tvg-id="" tvg-name="Dazzling Cartoon (CN) TH" tvg-logo="" group-title="Thailand",Dazzling Cartoon (CN) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563010
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD (Truevision) TH" tvg-logo="" group-title="Thailand",Dreamworks HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563011
+#EXTINF:-1 tvg-id="" tvg-name="Dreamsworks (Truevision) TH" tvg-logo="" group-title="Thailand",Dreamsworks (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563012
+#EXTINF:-1 tvg-id="" tvg-name="ETV TH" tvg-logo="" group-title="Thailand",ETV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115329
+#EXTINF:-1 tvg-id="" tvg-name="Explore Life TH [Thai]" tvg-logo="" group-title="Thailand",Explore Life TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115659
+#EXTINF:-1 tvg-id="" tvg-name="Explore Science HD TH [Thai]" tvg-logo="" group-title="Thailand",Explore Science HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115660
+#EXTINF:-1 tvg-id="" tvg-name="Explore Wild TH  [ENG]" tvg-logo="" group-title="Thailand",Explore Wild TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115408
+#EXTINF:-1 tvg-id="" tvg-name="Explore Wild TH [Thai]" tvg-logo="" group-title="Thailand",Explore Wild TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115663
+#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="" group-title="Thailand",Fight Night TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115320
+#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="" group-title="Thailand",Fightclub (Sling) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115303
+#EXTINF:-1 tvg-id="" tvg-name="Film HD TH 2 TH  [ENG]" tvg-logo="" group-title="Thailand",Film HD TH 2 TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115415
+#EXTINF:-1 tvg-id="" tvg-name="FILM HD TH [Thai]" tvg-logo="" group-title="Thailand",FILM HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115667
+#EXTINF:-1 tvg-id="" tvg-name="FILM TH" tvg-logo="" group-title="Thailand",FILM TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115414
+#EXTINF:-1 tvg-id="" tvg-name="FILMASIA HD TH [Thai]" tvg-logo="" group-title="Thailand",FILMASIA HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115665
+#EXTINF:-1 tvg-id="" tvg-name="FILMASIA TH" tvg-logo="" group-title="Thailand",FILMASIA TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115412
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD TH" tvg-logo="" group-title="Thailand",Food Network HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115672
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Fox Action HD TH [Thai-ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115673
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action TH" tvg-logo="" group-title="Thailand",Fox Action TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115420
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Fox Family Movies HD TH [Thai-ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115675
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies TH" tvg-logo="" group-title="Thailand",Fox Family Movies TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115422
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Fox Life HD TH [Thai-ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115679
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life TH" tvg-logo="" group-title="Thailand",Fox Life TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115426
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium TH" tvg-logo="" group-title="Thailand",Fox Movies Premium TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115424
+#EXTINF:-1 tvg-id="" tvg-name="Family Flix (Eng) TH" tvg-logo="" group-title="Thailand",Family Flix (Eng) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563015
+#EXTINF:-1 tvg-id="" tvg-name="SPOtv 1 HD TH" tvg-logo="" group-title="Thailand",SPOtv 1 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115304
+#EXTINF:-1 tvg-id="foxsports.th" tvg-name="SPOtv 1 HD TH  [ENG]" tvg-logo="" group-title="Thailand",SPOtv 1 HD TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115427
+#EXTINF:-1 tvg-id="foxsports.th" tvg-name="SPOtv 1 HD TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 1 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115682
+#EXTINF:-1 tvg-id="" tvg-name="SPOtv 1 TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 1 TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115684
+#EXTINF:-1 tvg-id="foxsport2.th" tvg-name="SPOtv 2 HD TH" tvg-logo="" group-title="Thailand",SPOtv 2 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115305
+#EXTINF:-1 tvg-id="foxsport2.th" tvg-name="SPOtv 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 2 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115686
+#EXTINF:-1 tvg-id="" tvg-name="SPOtv 2 TH  [ENG]" tvg-logo="" group-title="Thailand",SPOtv 2 TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115433
+#EXTINF:-1 tvg-id="" tvg-name="SPOtv 2 TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 2 TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115688
+#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 FHD TH" tvg-logo="" group-title="Thailand",SPOtv 3 FHD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/36948
+#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 HD TH" tvg-logo="" group-title="Thailand",SPOtv 3 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115306
+#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 TH  [ENG]" tvg-logo="" group-title="Thailand",SPOtv 3 TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115689
+#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 3 TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115690
+#EXTINF:-1 tvg-id="" tvg-name="FOX Thai HD TH  [ENG]" tvg-logo="" group-title="Thailand",FOX Thai HD TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115691
+#EXTINF:-1 tvg-id="" tvg-name="FOX Thai TH  [ENG]" tvg-logo="" group-title="Thailand",FOX Thai TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115439
+#EXTINF:-1 tvg-id="" tvg-name="FOX Thai TH [Thai]" tvg-logo="" group-title="Thailand",FOX Thai TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115694
+#EXTINF:-1 tvg-id="" tvg-name="GMM Channel TH" tvg-logo="" group-title="Thailand",GMM Channel TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115441
+#EXTINF:-1 tvg-id="" tvg-name="GMM One TH" tvg-logo="" group-title="Thailand",GMM One TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115443
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",Golf 2 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115698
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 TH [Thai]" tvg-logo="" group-title="Thailand",Golf 2 TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115699
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Thailand HD TH" tvg-logo="" group-title="Thailand",Golf Channel Thailand HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115446
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Thailand TH" tvg-logo="" group-title="Thailand",Golf Channel Thailand TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115447
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="" group-title="Thailand",GOLF HD TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115702
+#EXTINF:-1 tvg-id="" tvg-name="Astro Golf HD TH" tvg-logo="" group-title="Thailand",Astro Golf HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115703
+#EXTINF:-1 tvg-id="" tvg-name="GOOD TV TH" tvg-logo="" group-title="Thailand",GOOD TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115326
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature TH" tvg-logo="" group-title="Thailand",HBO Signature TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115708
+#EXTINF:-1 tvg-id="" tvg-name="HBO TH  [ENG]" tvg-logo="" group-title="Thailand",HBO TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115704
+#EXTINF:-1 tvg-id="" tvg-name="HBO TH [Thai]" tvg-logo="" group-title="Thailand",HBO TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115705
+#EXTINF:-1 tvg-id="" tvg-name="HBO* HD TH" tvg-logo="" group-title="Thailand",HBO* HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115833
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD (Truevision) TH" tvg-logo="" group-title="Thailand",HBO Family HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563001
+#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="" group-title="Thailand",Hi Sport TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115709
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD TH  [ENG]" tvg-logo="" group-title="Thailand",History 2 HD TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115710
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",History 2 HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115711
+#EXTINF:-1 tvg-id="history2.th" tvg-name="History 2 TH  [ENG]" tvg-logo="" group-title="Thailand",History 2 TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115712
+#EXTINF:-1 tvg-id="" tvg-name="History 2 TH [Thai]" tvg-logo="" group-title="Thailand",History 2 TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115713
+#EXTINF:-1 tvg-id="" tvg-name="History HD TH  [ENG]" tvg-logo="" group-title="Thailand",History HD TH  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115714
+#EXTINF:-1 tvg-id="" tvg-name="History HD TH [Thai]" tvg-logo="" group-title="Thailand",History HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115715
+#EXTINF:-1 tvg-id="" tvg-name="Hits-Movies HD TH" tvg-logo="" group-title="Thailand",Hits-Movies HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115720
+#EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" group-title="Thailand",Inside HD TH 
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115721
+#EXTINF:-1 tvg-id="" tvg-name="KBS World HD TH" tvg-logo="" group-title="Thailand",KBS World HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115723
+#EXTINF:-1 tvg-id="" tvg-name="Korean More HD (Truevision) TH" tvg-logo="" group-title="Thailand",Korean More HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563006
+#EXTINF:-1 tvg-id="" tvg-name="Korean More SD (Truevision) TH" tvg-logo="" group-title="Thailand",Korean More SD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563007
+#EXTINF:-1 tvg-id="" tvg-name="Lao Campa TV TH" tvg-logo="" group-title="Thailand",Lao Campa TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115331
+#EXTINF:-1 tvg-id="" tvg-name="Lao Campa TV2 TH" tvg-logo="" group-title="Thailand",Lao Campa TV2 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115332
+#EXTINF:-1 tvg-id="" tvg-name="Lao-Thai TV USA TH" tvg-logo="" group-title="Thailand",Lao-Thai TV USA TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115333
+#EXTINF:-1 tvg-id="" tvg-name="Laos DDTV TH" tvg-logo="" group-title="Thailand",Laos DDTV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115335
+#EXTINF:-1 tvg-id="" tvg-name="Laos ISTV TH" tvg-logo="" group-title="Thailand",Laos ISTV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115336
+#EXTINF:-1 tvg-id="" tvg-name="Laos TV TH" tvg-logo="" group-title="Thailand",Laos TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115330
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE TH (TH-ENG)" tvg-logo="" group-title="Thailand",LOVE NATURE TH (TH-ENG)
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115724
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime (Truevision) TH" tvg-logo="" group-title="Thailand",Lifetime (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562996
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD (Truevision) TH" tvg-logo="" group-title="Thailand",Lifetime HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562998
+#EXTINF:-1 tvg-id="" tvg-name="Latin Zone TV TH" tvg-logo="" group-title="Thailand",Latin Zone TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563009
+#EXTINF:-1 tvg-id="" tvg-name="Major Channel Mix TH" tvg-logo="" group-title="Thailand",Major Channel Mix TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115725
+#EXTINF:-1 tvg-id="" tvg-name="MajorMix TH" tvg-logo="" group-title="Thailand",MajorMix TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115310
+#EXTINF:-1 tvg-id="" tvg-name="MCOT TH" tvg-logo="" group-title="Thailand",MCOT TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115727
+#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115728
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE-HITS TH [Thai]" tvg-logo="" group-title="Thailand",MOVIE-HITS TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115729
+#EXTINF:-1 tvg-id="" tvg-name="MTN News TH (KR)" tvg-logo="" group-title="Thailand",MTN News TH (KR)
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115730
+#EXTINF:-1 tvg-id="" tvg-name="MTV YO! TH" tvg-logo="" group-title="Thailand",MTV YO! TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115323
+#EXTINF:-1 tvg-id="" tvg-name="Music4U TH" tvg-logo="" group-title="Thailand",Music4U TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115731
+#EXTINF:-1 tvg-id="" tvg-name="MVLAO TH" tvg-logo="" group-title="Thailand",MVLAO TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115334
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD TH [Thai]" tvg-logo="" group-title="Thailand",Nat Geo HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115733
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD TH" tvg-logo="" group-title="Thailand",Nat Geo Wild HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115735
+#EXTINF:-1 tvg-id="" tvg-name="NATION TV TH" tvg-logo="" group-title="Thailand",NATION TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115737
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="" group-title="Thailand",NBA HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115738
+#EXTINF:-1 tvg-id="" tvg-name="NBA TH" tvg-logo="" group-title="Thailand",NBA TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115302
+#EXTINF:-1 tvg-id="" tvg-name="NBT 2 HD TH" tvg-logo="" group-title="Thailand",NBT 2 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115337
+#EXTINF:-1 tvg-id="" tvg-name="NBT HD TH" tvg-logo="" group-title="Thailand",NBT HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115740
+#EXTINF:-1 tvg-id="" tvg-name="News 1 TH" tvg-logo="" group-title="Thailand",News 1 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115343
+#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="" group-title="Thailand",NFL HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115742
+#EXTINF:-1 tvg-id="" tvg-name="NFL TH" tvg-logo="" group-title="Thailand",NFL TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115743
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan TH" tvg-logo="" group-title="Thailand",NHK World Japan TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115745
+#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="" group-title="Thailand",One Golf TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115325
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD TH" tvg-logo="" group-title="Thailand",Outdoor Channel HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115749
+#EXTINF:-1 tvg-id="" tvg-name="Paramount TH" tvg-logo="" group-title="Thailand",Paramount TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115498
+#EXTINF:-1 tvg-id="" tvg-name="PBS HD TH" tvg-logo="" group-title="Thailand",PBS HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38128
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix InfoNews (CN)" tvg-logo="" group-title="Thailand",Phoenix InfoNews (CN)
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115499
+#EXTINF:-1 tvg-id="" tvg-name="Police TV HD TH" tvg-logo="" group-title="Thailand",Police TV HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116076
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="" group-title="Thailand",PPTV HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115501
+#EXTINF:-1 tvg-id="" tvg-name="PPTV TH" tvg-logo="" group-title="Thailand",PPTV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115756
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="" group-title="Thailand",Premier Football 1 TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115757
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 1  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115758
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1 [Thai]" tvg-logo="" group-title="Thailand",Premier Football HD TH 1 [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115759
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1-X [Thai]" tvg-logo="" group-title="Thailand",Premier Football HD TH 1-X [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115760
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115762
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115508
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2-X [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 2-X [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115509
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="" group-title="Thailand",Premier Football HD TH 3
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115510
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 3 [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115511
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3-X" tvg-logo="" group-title="Thailand",Premier Football HD TH 3-X
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115512
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="" group-title="Thailand",Premier Football HD TH 4
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115513
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="" group-title="Thailand",Premier Football HD TH 4-X
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115768
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="" group-title="Thailand",Premier Football HD TH 5
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115515
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1  [ENG]" tvg-logo="" group-title="Thailand",Premier Football TH 1  [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115516
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1-X [Thai]" tvg-logo="" group-title="Thailand",Premier Football TH 1-X [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115771
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 2 [ENG]" tvg-logo="" group-title="Thailand",Premier Football TH 2 [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115518
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3" tvg-logo="" group-title="Thailand",Premier Football TH 3
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115520
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3 [ENG]" tvg-logo="" group-title="Thailand",Premier Football TH 3 [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115521
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3-X" tvg-logo="" group-title="Thailand",Premier Football TH 3-X
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115522
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4" tvg-logo="" group-title="Thailand",Premier Football TH 4
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115523
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4-X" tvg-logo="" group-title="Thailand",Premier Football TH 4-X
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115524
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 5" tvg-logo="" group-title="Thailand",Premier Football TH 5
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115525
+#EXTINF:-1 tvg-id="" tvg-name="Reality Channel HD TH" tvg-logo="" group-title="Thailand",Reality Channel HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115526
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music TH" tvg-logo="" group-title="Thailand",Retro Music TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115322
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment HD (True) TH" tvg-logo="" group-title="Thailand",Rock Entertainment HD (True) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562995
+#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme HD (Truevision) TH" tvg-logo="" group-title="Thailand",Rock Extreme HD (Truevision) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562997
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today TH" tvg-logo="" group-title="Thailand",Russia Today TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115527
+#EXTINF:-1 tvg-id="" tvg-name="SERIES [Thai] TH" tvg-logo="" group-title="Thailand",SERIES [Thai] TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115782
+#EXTINF:-1 tvg-id="" tvg-name="Skynetsport 3 FHD TH" tvg-logo="" group-title="Thailand",Skynetsport 3 FHD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115937
+#EXTINF:-1 tvg-id="" tvg-name="Skynetsports 1 FHD TH" tvg-logo="" group-title="Thailand",Skynetsports 1 FHD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115850
+#EXTINF:-1 tvg-id="" tvg-name="Skynetsports 2 FHD TH" tvg-logo="" group-title="Thailand",Skynetsports 2 FHD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115851
+#EXTINF:-1 tvg-id="" tvg-name="Spark Jump TH" tvg-logo="" group-title="Thailand",Spark Jump TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115529
+#EXTINF:-1 tvg-id="" tvg-name="Spark Play [THAI] TH" tvg-logo="" group-title="Thailand",Spark Play [THAI] TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115784
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2 TH [ENG]" tvg-logo="" group-title="Thailand",Sport 2 TH [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115790
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2 [THAI]" tvg-logo="" group-title="Thailand",Sport 2 [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115534
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="" group-title="Thailand",Sport 5 TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115541
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="" group-title="Thailand",Sport 6 TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115542
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="" group-title="Thailand",Sport 7 TH [ENG]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115798
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="" group-title="Thailand",Sport 7 TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115799
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="" group-title="Thailand",Sport HD TH 1[THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115531
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="" group-title="Thailand",Sport HD TH 2 [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115533
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="" group-title="Thailand",Sport HD TH 3 [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115537
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="" group-title="Thailand",Sport TH 1 [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115532
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="" group-title="Thailand",Sport TH 2 [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115535
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="" group-title="Thailand",Sport TH 3 [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115538
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Classics HD TH" tvg-logo="" group-title="Thailand",Star Chinese Classics HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115546
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Classics TH" tvg-logo="" group-title="Thailand",Star Chinese Classics TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115547
+#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD TH" tvg-logo="" group-title="Thailand",Star Chinese Movies HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115802
+#EXTINF:-1 tvg-id="" tvg-name="StarWorld TH" tvg-logo="" group-title="Thailand",StarWorld TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115804
+#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="" group-title="Thailand",Super Bunteung/FightBox
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115500
+#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="" group-title="Thailand",Tennis HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115805
+#EXTINF:-1 tvg-id="" tvg-name="Thai 33 HD TH" tvg-logo="" group-title="Thailand",Thai 33 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115299
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai BeIN Sports 1 HD TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115807
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai BeIN Sports 2 HD TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115809
+#EXTINF:-1 tvg-id="" tvg-name="Thai Film HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai Film HD TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115416
+#EXTINF:-1 tvg-id="" tvg-name="Thai Film TH [THAI]" tvg-logo="" group-title="Thailand",Thai Film TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115417
+#EXTINF:-1 tvg-id="" tvg-name="Thai Parliament TV TH" tvg-logo="" group-title="Thailand",Thai Parliament TV TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115811
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD TH" tvg-logo="" group-title="Thailand",Thai PBS HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38107
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai PBS HD TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115812
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="" group-title="Thailand",Thairath HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115328
+#EXTINF:-1 tvg-id="" tvg-name="ThaiRath HD TH [THAI]" tvg-logo="" group-title="Thailand",ThaiRath HD TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115814
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD TH" tvg-logo="" group-title="Thailand",TLC HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115402
+#EXTINF:-1 tvg-id="" tvg-name="TLC TH" tvg-logo="" group-title="Thailand",TLC TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115403
+#EXTINF:-1 tvg-id="" tvg-name="TNN 2 TH" tvg-logo="" group-title="Thailand",TNN 2 TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115816
+#EXTINF:-1 tvg-id="" tvg-name="TNN24 TH [THAI]" tvg-logo="" group-title="Thailand",TNN24 TH [THAI]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115817
+#EXTINF:-1 tvg-id="" tvg-name="Toonee TH" tvg-logo="" group-title="Thailand",Toonee TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115819
+#EXTINF:-1 tvg-id="" tvg-name="Top News HD TH [Thai]" tvg-logo="" group-title="Thailand",Top News HD TH [Thai]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115818
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport TH" tvg-logo="" group-title="Thailand",Trace Sport TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115318
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD TH [Multi Audio]" tvg-logo="" group-title="Thailand",Travel Channel HD TH [Multi Audio]
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115832
+#EXTINF:-1 tvg-id="" tvg-name="True Music TH" tvg-logo="" group-title="Thailand",True Music TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115820
+#EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="" group-title="Thailand",True4U TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115301
+#EXTINF:-1 tvg-id="" tvg-name="TV CABLE 5 HD TH" tvg-logo="" group-title="Thailand",TV CABLE 5 HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115831
+#EXTINF:-1 tvg-id="" tvg-name="TV Direct TH" tvg-logo="" group-title="Thailand",TV Direct TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115339
+#EXTINF:-1 tvg-id="" tvg-name="TVB HD (Movies) TH" tvg-logo="" group-title="Thailand",TVB HD (Movies) TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115317
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD TH" tvg-logo="" group-title="Thailand",Warner TV HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115823
+#EXTINF:-1 tvg-id="" tvg-name="White Channel FHD TH" tvg-logo="" group-title="Thailand",White Channel FHD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/37103
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint HD TH" tvg-logo="" group-title="Thailand",Workpoint HD TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115825
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint TH" tvg-logo="" group-title="Thailand",Workpoint TH
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115826
+--------------------------------------------------------------JAPAN-CHINA--------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Animax JP" tvg-logo="" group-title="Japan",Animax JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567739
+
+#EXTINF:-1 tvg-id="" tvg-name="BS TV Tokyo JP" tvg-logo="" group-title="Japan",BS TV Tokyo JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567737
+
+#EXTINF:-1 tvg-id="" tvg-name="KRet Channel JP" tvg-logo="" group-title="Japan",KRet Channel JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567745
+
+#EXTINF:-1 tvg-id="" tvg-name="MX Live (Webcam) JP" tvg-logo="" group-title="Japan",MX Live (Webcam) JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568328
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK BSP JP" tvg-logo="" group-title="Japan",NHK BSP JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568330
+#EXTINF:-1 tvg-id="" tvg-name="NHK E JP" tvg-logo="" group-title="Japan",NHK E JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568331
+#EXTINF:-1 tvg-id="" tvg-name="NHK G JP" tvg-logo="" group-title="Japan",NHK G JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568332
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan HD JP" tvg-logo="" group-title="Japan",NHK World Japan HD JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568334
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan FHD JP" tvg-logo="" group-title="Japan",NHK World Japan FHD JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568333
+#EXTINF:-1 tvg-id="" tvg-name="NHK World JP" tvg-logo="" group-title="Japan",NHK World JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567736
+
+#EXTINF:-1 tvg-id="" tvg-name="NTV News 24 JP" tvg-logo="" group-title="Japan",NTV News 24 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568336
+#EXTINF:-1 tvg-id="" tvg-name="NTV News 24 FHD JP" tvg-logo="" group-title="Japan",NTV News 24 FHD JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568335
+#EXTINF:-1 tvg-id="" tvg-name="QVC Japan JP" tvg-logo="" group-title="Japan",QVC Japan JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568338
+#EXTINF:-1 tvg-id="" tvg-name="Shop Channel JP" tvg-logo="" group-title="Japan",Shop Channel JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568339
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS News JP" tvg-logo="" group-title="Japan",TBS News JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568343
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo - Narita Airport JP" tvg-logo="" group-title="Japan",Tokyo - Narita Airport JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567743
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 1 JP" tvg-logo="" group-title="Japan",Tokyo MX 1 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568345
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 1 HD JP" tvg-logo="" group-title="Japan",Tokyo MX 1 HD JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568346
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 2 JP" tvg-logo="" group-title="Japan",Tokyo MX 2 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568347
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 2 HD JP" tvg-logo="" group-title="Japan",Tokyo MX 2 HD JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568348
+#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo JP" tvg-logo="" group-title="Japan",TV Tokyo JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568344
+#EXTINF:-1 tvg-id="" tvg-name="Weather News JP" tvg-logo="" group-title="Japan",Weather News JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568349
+#EXTINF:-1 tvg-id="" tvg-name="Weather News HD JP" tvg-logo="" group-title="Japan",Weather News HD JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568350
+#EXTINF:-1 tvg-id="" tvg-name="ウェザーニュース JP" tvg-logo="" group-title="Japan",ウェザーニュース JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568351
+#EXTINF:-1 tvg-id="" tvg-name="日本购物 1 JP" tvg-logo="" group-title="Japan",日本购物 1 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568352
+#EXTINF:-1 tvg-id="" tvg-name="日本购物 2 JP" tvg-logo="" group-title="Japan",日本购物 2 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568353
+#EXTINF:-1 tvg-id="" tvg-name="日本购物 3 JP" tvg-logo="" group-title="Japan",日本购物 3 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568354
+#EXTINF:-1 tvg-id="" tvg-name="日本购物 4 JP" tvg-logo="" group-title="Japan",日本购物 4 JP
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568355
+#EXTINF:-1 tvg-id="" tvg-name="-= China =-" tvg-logo="" group-title="China",-= China =-
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/39878
+#EXTINF:-1 tvg-id="" tvg-name="BLACKBERRY FHD CN" tvg-logo="" group-title="China",BLACKBERRY FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115291
+#EXTINF:-1 tvg-id="" tvg-name="BTV FHD CN" tvg-logo="" group-title="China",BTV FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115290
+#EXTINF:-1 tvg-id="" tvg-name="BTV KAKU FHD CN" tvg-logo="" group-title="China",BTV KAKU FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115289
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1 FHD CN" tvg-logo="" group-title="China",CCTV 1 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115274
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2 FHD CN" tvg-logo="" group-title="China",CCTV 2 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115275
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3 FHD CN" tvg-logo="" group-title="China",CCTV 3 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115276
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4 FHD CN" tvg-logo="" group-title="China",CCTV 4 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115277
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6 FHD CN" tvg-logo="" group-title="China",CCTV 6 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115278
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 7 FHD CN" tvg-logo="" group-title="China",CCTV 7 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115279
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8 FHD CN" tvg-logo="" group-title="China",CCTV 8 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115280
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9 FHD CN" tvg-logo="" group-title="China",CCTV 9 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115281
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 10 FHD CN" tvg-logo="" group-title="China",CCTV 10 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115282
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 11 FHD CN" tvg-logo="" group-title="China",CCTV 11 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115283
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 12 FHD CN" tvg-logo="" group-title="China",CCTV 12 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115284
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 13 FHD CN" tvg-logo="" group-title="China",CCTV 13 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115285
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 14 FHD CN" tvg-logo="" group-title="China",CCTV 14 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115286
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 15 FHD CN" tvg-logo="" group-title="China",CCTV 15 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115287
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 17 FHD CN" tvg-logo="" group-title="China",CCTV 17 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115288
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1 FHD CN" tvg-logo="" group-title="China",Channel 1 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115296
+#EXTINF:-1 tvg-id="" tvg-name="Channel 2 FHD CN" tvg-logo="" group-title="China",Channel 2 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115295
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3 FHD CN" tvg-logo="" group-title="China",Channel 3 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115294
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 FHD CN" tvg-logo="" group-title="China",Channel 5 FHD CN
+http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115292
+
+
