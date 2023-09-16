@@ -973,8 +973,7 @@ http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115809
 http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115416
 #EXTINF:-1 tvg-id="" tvg-name="Thai Film TH [THAI]" tvg-logo="" group-title="Thailand",Thai Film TH [THAI]
 http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115417
-#EXTINF:-1 tvg-id="" tvg-name="Thai Parliament TV TH" tvg-logo="" group-title="Thailand",Thai Parliament TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115811
+
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD TH" tvg-logo="" group-title="Thailand",Thai PBS HD TH
 http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38107
 #EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai PBS HD TH [THAI]
