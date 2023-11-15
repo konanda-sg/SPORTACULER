@@ -1,1130 +1,690 @@
-#EXTINF:-1 xui-id="1312" tvg-id="TransTV.MACAN" tvg-name="TRANS TV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JCrM3Ogta1lTnR-Gh1vdaPV6tlpheyWBqnBQkCCkbVei.png" group-title="LOKAL",TRANS TV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT3R_5knYtxoChpz-_ZSMCP0/m3u8
-#EXTINF:-1 xui-id="1313" tvg-id="Trans7.MACAN" tvg-name="TRANS7 HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JHczDMa4iJCO6OxGHsL2Z_E3MZfk6KnbTWXnHyBV6CwB.png" group-title="LOKAL",TRANS7 HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6aVlZ11MJUZSCKO1RCmkQY/m3u8
-#EXTINF:-1 xui-id="1315" tvg-id="Trans7.MACAN" tvg-name="TRANS 7 FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JHczDMa4iJCO6OxGHsL2Z_E3MZfk6KnbTWXnHyBV6CwB.png" group-title="LOKAL",TRANS 7 FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT9r9bu3RWomlBj9fuWmyu0s/m3u8
-#EXTINF:-1 xui-id="1316" tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JByjKZTB27GwV2rOw3ueMmB7pz1p4C8MuAZ6DASyRkkJ.png" group-title="LOKAL",RCTI HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2aGwulgiOxQmB543P81d4U/m3u8
-#EXTINF:-1 xui-id="1964" tvg-id="RCTI.MACAN" tvg-name="RCTI FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JByjKZTB27GwV2rOw3ueMmB7pz1p4C8MuAZ6DASyRkkJ.png" group-title="LOKAL",RCTI FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzcYoCAReY46ChruYbYJGME/m3u8
-#EXTINF:-1 xui-id="31897" tvg-id="" tvg-name="MNCTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="LOKAL",MNCTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTxfxKoPKVmOjR1Rr_dXW-Ss/m3u8
-#EXTINF:-1 xui-id="1317" tvg-id="MNCTV.MACAN" tvg-name="MNCTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="LOKAL",MNCTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT1Ra45pRqKaasbdi9cT5A1w/m3u8
-#EXTINF:-1 xui-id="31898" tvg-id="" tvg-name="GTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="LOKAL",GTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTwEIhONp6p386VXygoFKp0I/m3u8
-#EXTINF:-1 xui-id="1318" tvg-id="GTV.MACAN" tvg-name="GTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="LOKAL",GTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTyLrfzhM7Qovx3NdIBZEQ7A/m3u8
-#EXTINF:-1 xui-id="31899" tvg-id="" tvg-name="INEWS HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JPp7t1P7st7QlD4Bjbar_byDORz-DkG9Cw7WGc7U9ixl.png" group-title="LOKAL",INEWS HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzc9jRcDCn8uhD6O4bM4NJE/m3u8
-#EXTINF:-1 xui-id="1336" tvg-id="iNewsTV.MACAN" tvg-name="INEWS FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JPp7t1P7st7QlD4Bjbar_byDORz-DkG9Cw7WGc7U9ixl.png" group-title="LOKAL",INEWS FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT44Tg6k1h3hFg9vx0BhMX_g/m3u8
-#EXTINF:-1 xui-id="1319" tvg-id="NET1" tvg-name="NET HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLm92en06z0yIfxR2myDsrv7q2s1K6cWizPvEEdkZqjE.png" group-title="LOKAL",NET HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTw-BI0Qa5ammSaa21hcGDHw/m3u8
-#EXTINF:-1 xui-id="1321" tvg-id="NET1" tvg-name="NET FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLm92en06z0yIfxR2myDsrv7q2s1K6cWizPvEEdkZqjE.png" group-title="LOKAL",NET FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTx3RKadhzS59FBZb72YkCCY/m3u8
-#EXTINF:-1 xui-id="1328" tvg-id="MetroTV.MACAN" tvg-name="METROTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JG2HYDElPV4qkliH25TB7-5vUmNJftslYM9hxi_YX-Z-.png" group-title="LOKAL",METROTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-RARAuhQkNVUhTeUE8OhVw/m3u8
-#EXTINF:-1 xui-id="1330" tvg-id="MetroTV.MACAN" tvg-name="METROTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JG2HYDElPV4qkliH25TB7-5vUmNJftslYM9hxi_YX-Z-.png" group-title="LOKAL",METROTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT31_kHTEUfAHyYBe-ME__44/m3u8
-#EXTINF:-1 xui-id="1331" tvg-id="KompasTv.MACAN" tvg-name="KOMPASTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JBLACkTzys7CUpCJKSc3pg-QJAD2LNVm5cmBR3TiErA-.png" group-title="LOKAL",KOMPASTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6ezvnLrs6smD4kszLWfkc8/m3u8
-#EXTINF:-1 xui-id="1332" tvg-id="KompasTv.MACAN" tvg-name="KOMPASTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JBLACkTzys7CUpCJKSc3pg-QJAD2LNVm5cmBR3TiErA-.png" group-title="LOKAL",KOMPASTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6nKg3RzSuvvmhpUPFOPdAo/m3u8
-#EXTINF:-1 xui-id="1496" tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLtTOjwlcwH2gD2-vw4yboMN2u8usjWXz7iwuX68ss7V.png" group-title="LOKAL",CNN Indonesia FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-yv5O8ionZBiqyXlIgwviw/m3u8
-#EXTINF:-1 xui-id="1333" tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU World" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JAVWi6_F2QBDzJ3t-oqmftFNzgqcjc3UVIq372sRDWer.png" group-title="LOKAL",BERITA SATU World
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-LZADWe0Z-yZDeW1DBMqKE/m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1730e2afa58e4a4b6c0be9d7f1d825:2a9f660aa7536eb513ca5900249d6add
+https://drm-wc-1-vidio-com.akamaized.net/out/v1/36cd2d7a8d154757bc4859104fe1ee61/index.mpd
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC VID 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dad26bed782d6991d64970ce3cb006da:2c8b3759afc68f6944089f5b4b7a1f50
+https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
+http://103.166.27.2:8112/play/a015
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 2
+https://stream.ayas.ir/hls2/bein5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png"  group-title="FIFA WORLD CUP U17",Server 3
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",wc u17
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8 
+=================================================================================================================================
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS 7
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
+http://103.30.87.238:443/wadmanet/norlec212/858
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
+http://103.30.87.238:443/wadmanet/norlec212/516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+http://103.30.87.238:443/wadmanet/norlec212/5628
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", iNews 
+http://103.30.87.238:443/wadmanet/norlec212/1419
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
+http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
+http://103.30.87.238:443/wadmanet/norlec212/907
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
+http://103.30.87.238:443/wadmanet/norlec212/890
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bgr1VQP/trans.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gTbQGGj/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Yyvx7/antv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", ANTV
+http://humiptv.live:8080/live/741852963/741852963/151249.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NZrjLnX/Kompas-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cJrgNLt/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
+https://nonton.site:8443/live/ekos/7483/36.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia
+http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
+======================================================================================================================================
+
+#EXTINF:-1 tvg-id="ts150" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 1
+http://humiptv.live:8080/live/56565656/56565656/154.ts
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 2 HD
+http://humiptv.live:8080/live/56565656/56565656/31314.ts
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 3 HD
+http://humiptv.live:8080/live/56565656/56565656/146.ts
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 4 HD
+http://humiptv.live:8080/live/56565656/56565656/29469.ts
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 5 HD
+http://humiptv.live:8080/live/56565656/56565656/176.ts
+==========================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", Bein sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd
+
+#EXrTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", elevent 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", Dazn
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA", Eleven 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 
 
-#EXTINF:-1 xui-id="1345" tvg-id="TVONE" tvg-name="TV ONE" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JGWfd_QdH6c20zoorUDlyOEoFEODBvaR3ScRRBcygW_x.png" group-title="LOKAL",TV ONE
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6bLm4y0avDYMki1XIlXm7Y/m3u8
-#EXTINF:-1 xui-id="1346" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JGcGNyVYfoAaTaxvcqwnB1v3uRdw1YLKNfr_qACzjo6R.png" group-title="LOKAL",ANTV
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT5A7viZt3na66autCBzpOe4/m3u8
-#EXTINF:-1 xui-id="1347" tvg-id="AntaraTV.MACAN" tvg-name="ANTARA" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JFKz5OCONoMak20YbojN4FxdBi1vt97fjCA_MYLKax9q.png" group-title="LOKAL",ANTARA
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6B9ZXl6O_8JLjsHOaWrMss/m3u8
-#EXTINF:-1 xui-id="1348" tvg-id="BaliTV.MACAN" tvg-name="BALITV" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JDB3Zxfe7A13xWgUrfL_y0paqgcXK2Xyzxeo9MxJNM9-.png" group-title="LOKAL",BALITV
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT4N_QZxTNY2kJ9B7uOJ78Uo/m3u8
-#EXTINF:-1 xui-id="1312" tvg-id="TransTV.MACAN" tvg-name="TRANS TV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JCrM3Ogta1lTnR-Gh1vdaPV6tlpheyWBqnBQkCCkbVei.png" group-title="LOKAL",TRANS TV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT3R_5knYtxoChpz-_ZSMCP0/m3u8
-#EXTINF:-1 xui-id="1313" tvg-id="Trans7.MACAN" tvg-name="TRANS7 HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JHczDMa4iJCO6OxGHsL2Z_E3MZfk6KnbTWXnHyBV6CwB.png" group-title="LOKAL",TRANS7 HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6aVlZ11MJUZSCKO1RCmkQY/m3u8
-#EXTINF:-1 xui-id="1315" tvg-id="Trans7.MACAN" tvg-name="TRANS 7 FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JHczDMa4iJCO6OxGHsL2Z_E3MZfk6KnbTWXnHyBV6CwB.png" group-title="LOKAL",TRANS 7 FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT9r9bu3RWomlBj9fuWmyu0s/m3u8
-#EXTINF:-1 xui-id="1316" tvg-id="RCTI.MACAN" tvg-name="RCTI HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JByjKZTB27GwV2rOw3ueMmB7pz1p4C8MuAZ6DASyRkkJ.png" group-title="LOKAL",RCTI HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2aGwulgiOxQmB543P81d4U/m3u8
-#EXTINF:-1 xui-id="1964" tvg-id="RCTI.MACAN" tvg-name="RCTI FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JByjKZTB27GwV2rOw3ueMmB7pz1p4C8MuAZ6DASyRkkJ.png" group-title="LOKAL",RCTI FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzcYoCAReY46ChruYbYJGME/m3u8
-#EXTINF:-1 xui-id="31897" tvg-id="" tvg-name="MNCTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="LOKAL",MNCTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTxfxKoPKVmOjR1Rr_dXW-Ss/m3u8
-#EXTINF:-1 xui-id="1317" tvg-id="MNCTV.MACAN" tvg-name="MNCTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="LOKAL",MNCTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT1Ra45pRqKaasbdi9cT5A1w/m3u8
-#EXTINF:-1 xui-id="31898" tvg-id="" tvg-name="GTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="LOKAL",GTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTwEIhONp6p386VXygoFKp0I/m3u8
-#EXTINF:-1 xui-id="1318" tvg-id="GTV.MACAN" tvg-name="GTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="LOKAL",GTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTyLrfzhM7Qovx3NdIBZEQ7A/m3u8
-#EXTINF:-1 xui-id="31899" tvg-id="" tvg-name="INEWS HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JPp7t1P7st7QlD4Bjbar_byDORz-DkG9Cw7WGc7U9ixl.png" group-title="LOKAL",INEWS HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzc9jRcDCn8uhD6O4bM4NJE/m3u8
-#EXTINF:-1 xui-id="1336" tvg-id="iNewsTV.MACAN" tvg-name="INEWS FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JPp7t1P7st7QlD4Bjbar_byDORz-DkG9Cw7WGc7U9ixl.png" group-title="LOKAL",INEWS FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT44Tg6k1h3hFg9vx0BhMX_g/m3u8
-#EXTINF:-1 xui-id="1319" tvg-id="NET1" tvg-name="NET HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLm92en06z0yIfxR2myDsrv7q2s1K6cWizPvEEdkZqjE.png" group-title="LOKAL",NET HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTw-BI0Qa5ammSaa21hcGDHw/m3u8
-#EXTINF:-1 xui-id="1321" tvg-id="NET1" tvg-name="NET FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLm92en06z0yIfxR2myDsrv7q2s1K6cWizPvEEdkZqjE.png" group-title="LOKAL",NET FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTx3RKadhzS59FBZb72YkCCY/m3u8
-#EXTINF:-1 xui-id="1328" tvg-id="MetroTV.MACAN" tvg-name="METROTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JG2HYDElPV4qkliH25TB7-5vUmNJftslYM9hxi_YX-Z-.png" group-title="LOKAL",METROTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-RARAuhQkNVUhTeUE8OhVw/m3u8
-#EXTINF:-1 xui-id="1330" tvg-id="MetroTV.MACAN" tvg-name="METROTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JG2HYDElPV4qkliH25TB7-5vUmNJftslYM9hxi_YX-Z-.png" group-title="LOKAL",METROTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT31_kHTEUfAHyYBe-ME__44/m3u8
-#EXTINF:-1 xui-id="1331" tvg-id="KompasTv.MACAN" tvg-name="KOMPASTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JBLACkTzys7CUpCJKSc3pg-QJAD2LNVm5cmBR3TiErA-.png" group-title="LOKAL",KOMPASTV HD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6ezvnLrs6smD4kszLWfkc8/m3u8
-#EXTINF:-1 xui-id="1332" tvg-id="KompasTv.MACAN" tvg-name="KOMPASTV FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JBLACkTzys7CUpCJKSc3pg-QJAD2LNVm5cmBR3TiErA-.png" group-title="LOKAL",KOMPASTV FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6nKg3RzSuvvmhpUPFOPdAo/m3u8
-#EXTINF:-1 xui-id="1496" tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia FHD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JLtTOjwlcwH2gD2-vw4yboMN2u8usjWXz7iwuX68ss7V.png" group-title="LOKAL",CNN Indonesia FHD
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-yv5O8ionZBiqyXlIgwviw/m3u8
-#EXTINF:-1 xui-id="1333" tvg-id="BeritaSatu.MACAN" tvg-name="BERITA SATU World" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JAVWi6_F2QBDzJ3t-oqmftFNzgqcjc3UVIq372sRDWer.png" group-title="LOKAL",BERITA SATU World
-http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-LZADWe0Z-yZDeW1DBMqKE/m3u8
-----------------------------------------------------------------PHILIPHINA--------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="ABS Cbn PH" tvg-logo="" group-title="Philippines",ABS Cbn PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31053
-#EXTINF:-1 tvg-id="" tvg-name="ABS CBN Sports Action PH" tvg-logo="" group-title="Philippines",ABS CBN Sports Action PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498597
-#EXTINF:-1 tvg-id="" tvg-name="AFN PH" tvg-logo="" group-title="Philippines",AFN PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498598
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera PH " tvg-logo="" group-title="Philippines",Al Jazeera PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463608
-#EXTINF:-1 tvg-id="anc.ph" tvg-name="ANC PH" tvg-logo="" group-title="Philippines",ANC PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31052
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD PH" tvg-logo="" group-title="Philippines",Animal Planet HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143967
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet PH" tvg-logo="" group-title="Philippines",Animal Planet PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31051
-#EXTINF:-1 tvg-id="" tvg-name="Animax PH" tvg-logo="" group-title="Philippines",Animax PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463609
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus HD PH" tvg-logo="" group-title="Philippines",Aniplus HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463610
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus PH" tvg-logo="" group-title="Philippines",Aniplus PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/31049
-#EXTINF:-1 tvg-id="" tvg-name="Arabic TFC PH" tvg-logo="" group-title="Philippines",Arabic TFC PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498599
-#EXTINF:-1 tvg-id="" tvg-name="Arirang PH" tvg-logo="" group-title="Philippines",Arirang PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463611
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food HD PH " tvg-logo="" group-title="Philippines",Asian Food HD PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463612
-#EXTINF:-1 tvg-id="" tvg-name="Asian Food PH" tvg-logo="" group-title="Philippines",Asian Food PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141593
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD PH" tvg-logo="" group-title="Philippines",AXN HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143971
-#EXTINF:-1 tvg-id="" tvg-name="AXN PH" tvg-logo="" group-title="Philippines",AXN PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463613
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD PH" tvg-logo="" group-title="Philippines",BBC Earth HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463614
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News PH" tvg-logo="" group-title="Philippines",BBC World News PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463615
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 PH" tvg-logo="" group-title="Philippines",beIN Sports 3 PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463617
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg PH" tvg-logo="" group-title="Philippines",Bloomberg PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463618
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD PH" tvg-logo="" group-title="Philippines",Boomerang HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143972
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang PH " tvg-logo="" group-title="Philippines",Boomerang PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463619
-#EXTINF:-1 tvg-id="" tvg-name="Buko PH" tvg-logo="" group-title="Philippines",Buko PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463620
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4 PH" tvg-logo="" group-title="Philippines",CCTV 4 PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463621
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Movie Pinoy PH" tvg-logo="" group-title="Philippines",Celestial Movie Pinoy PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463622
-#EXTINF:-1 tvg-id="" tvg-name="CGTN PH" tvg-logo="" group-title="Philippines",CGTN PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463623
-#EXTINF:-1 tvg-id="" tvg-name="CGTV DOC PH" tvg-logo="" group-title="Philippines",CGTV DOC PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498601
-#EXTINF:-1 tvg-id="cinemaone.ph" tvg-name="Cinema One PH" tvg-logo="" group-title="Philippines",Cinema One PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/35396
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World PH" tvg-logo="" group-title="Philippines",Cinema World PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463624
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemo HD PH" tvg-logo="" group-title="Philippines",Cinemo HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143984
-#EXTINF:-1 tvg-id="" tvg-name="Cinemo HD PH" tvg-logo="" group-title="Philippines",Cinemo HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143986
-#EXTINF:-1 tvg-id="" tvg-name="Cinemo Nola PH" tvg-logo="" group-title="Philippines",Cinemo Nola PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498603
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation PH" tvg-logo="" group-title="Philippines",Crime Investigation PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141595
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Dazn 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Espn
+http://fadder.eletrinho.shop:2095/live2/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA" , Espn 4
+http://fadder.eletrinho.shop:2095/live2/espn4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", True  sport 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", True sport-2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", True sport 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", Espn 4 sd
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18672
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA", +foot direct
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297371
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel PH" tvg-logo="" group-title="Philippines",Discovery Channel PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144009
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks PH" tvg-logo="" group-title="Philippines",DreamWorks PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/35394
 
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD PH" tvg-logo="" group-title="Philippines",Fashion TV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144019
-#EXTINF:-1 tvg-id="" tvg-name="Food Network PH" tvg-logo="" group-title="Philippines",Food Network PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141599
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", Bein sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
 
-#EXTINF:-1 tvg-id="gmalife.ph" tvg-name="GMA Life PH" tvg-logo="" group-title="Philippines",GMA Life PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/41228
-#EXTINF:-1 tvg-id="gmalife.ph" tvg-name="GMA Life TV HD PH" tvg-logo="" group-title="Philippines",GMA Life TV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33271
-#EXTINF:-1 tvg-id="gmanewstv.ph" tvg-name="GMA News PH" tvg-logo="" group-title="Philippines",GMA News PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/41227
-#EXTINF:-1 tvg-id="gmanewstv.ph" tvg-name="GMA News TV HD PH" tvg-logo="" group-title="Philippines",GMA News TV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33270
-#EXTINF:-1 tvg-id="" tvg-name="GMA News TV HD PH" tvg-logo="" group-title="Philippines",GMA News TV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144002
-#EXTINF:-1 tvg-id="gmapinoy.ph" tvg-name="GMA Pinoy TV HD PH" tvg-logo="" group-title="Philippines",GMA Pinoy TV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33269
-#EXTINF:-1 tvg-id="" tvg-name="Hilsong Channel PH" tvg-logo="" group-title="Philippines",Hilsong Channel PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498612
-#EXTINF:-1 tvg-id="" tvg-name="History HD PH" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="Philippines",History HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144039
-#EXTINF:-1 tvg-id="" tvg-name="HITS HD PH" tvg-logo="" group-title="Philippines",HITS HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144024
-#EXTINF:-1 tvg-id="" tvg-name="HITS Movies PH" tvg-logo="" group-title="Philippines",HITS Movies PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144038
-#EXTINF:-1 tvg-id="" tvg-name="IBC 13 PH" tvg-logo="" group-title="Philippines",IBC 13 PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463627
-#EXTINF:-1 tvg-id="" tvg-name="K-Plus PH" tvg-logo="" group-title="Philippines",K-Plus PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463628
-#EXTINF:-1 tvg-id="" tvg-name="KBS World PH" tvg-logo="" group-title="Philippines",KBS World PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463629
-#EXTINF:-1 tvg-id="" tvg-name="Kix HD PH" tvg-logo="" group-title="Philippines",Kix HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463630
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", Zona dazn
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime PH " tvg-logo="" group-title="Philippines",Lifetime PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463632
-#EXTINF:-1 tvg-id="" tvg-name="Light TV PH" tvg-logo="" group-title="Philippines",Light TV PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498618
-#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids PH" tvg-logo="" group-title="Philippines",Moonbug Kids PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463633
-#EXTINF:-1 tvg-id="" tvg-name="MOR PH" tvg-logo="" group-title="Philippines",MOR PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498619
-#EXTINF:-1 tvg-id="" tvg-name="MTV Asia PH" tvg-logo="" group-title="Philippines",MTV Asia PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463634
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" , Dazn 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD PH" tvg-logo="" group-title="Philippines",National Geographic HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463637
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan PH" tvg-logo="" group-title="Philippines",NHK World Japan PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463638
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr PH" tvg-logo="" group-title="Philippines",Nick Jr PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463639
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD PH" tvg-logo="" group-title="Philippines",Nickelodeon HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144029
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon PH " tvg-logo="" group-title="Philippines",Nickelodeon PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463640
-#EXTINF:-1 tvg-id="" tvg-name="One News HD PH" tvg-logo="" group-title="Philippines",One News HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/143991
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", Bein sport 1
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="One PH " tvg-logo="" group-title="Philippines",One PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463642
-#EXTINF:-1 tvg-id="" tvg-name="One Sports PH" tvg-logo="" group-title="Philippines",One Sports PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463643
-#EXTINF:-1 tvg-id="" tvg-name="One Sports+ PH" tvg-logo="" group-title="Philippines",One Sports+ PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463644
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor PH " tvg-logo="" group-title="Philippines",Outdoor PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463645
-#EXTINF:-1 tvg-id="" tvg-name="Paramount PH" tvg-logo="" group-title="Philippines",Paramount PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463646
-#EXTINF:-1 tvg-id="" tvg-name="PBA Rush PH" tvg-logo="" group-title="Philippines",PBA Rush PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463647
-#EXTINF:-1 tvg-id="" tvg-name="PBO PH" tvg-logo="" group-title="Philippines",PBO PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498621
-#EXTINF:-1 tvg-id="" tvg-name="Pinoy Box Office PH" tvg-logo="" group-title="Philippines",Pinoy Box Office PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463648
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports HD PH" tvg-logo="" group-title="Philippines",Premier Sports HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463651
-#EXTINF:-1 tvg-id="" tvg-name="PTV 4 PH" tvg-logo="" group-title="Philippines",PTV 4 PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463652
-#EXTINF:-1 tvg-id="" tvg-name="PTV News PH" tvg-logo="" group-title="Philippines",PTV News PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498624
-#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment PH" tvg-logo="" group-title="Philippines",Rock Entertainment PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463653
-#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme PH" tvg-logo="" group-title="Philippines",Rock Extreme PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463654
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", true bein 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA", Bein 1 direct
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sari-Sari PH" tvg-logo="" group-title="Philippines",Sari-Sari PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463655
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2 HD PH" tvg-logo="" group-title="Philippines",SPOTV 2 HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463656
-#EXTINF:-1 tvg-id="" tvg-name="SPOTV HD PH" tvg-logo="" group-title="Philippines",SPOTV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463657
-#EXTINF:-1 tvg-id="" tvg-name="Tap Action Flix HD PH" tvg-logo="" group-title="Philippines",Tap Action Flix HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463658
-#EXTINF:-1 tvg-id="" tvg-name="Tap Edge PH" tvg-logo="" group-title="Philippines",Tap Edge PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463659
-#EXTINF:-1 tvg-id="" tvg-name="TAP Movies HD PH" tvg-logo="" group-title="Philippines",TAP Movies HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463660
-#EXTINF:-1 tvg-id="" tvg-name="Tap Sports PH" tvg-logo="" group-title="Philippines",Tap Sports PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463661
-#EXTINF:-1 tvg-id="" tvg-name="TAP TV PH" tvg-logo="" group-title="Philippines",TAP TV PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463662
-#EXTINF:-1 tvg-id="" tvg-name="TechStorm PH" tvg-logo="" group-title="Philippines",TechStorm PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463663
-#EXTINF:-1 tvg-id="" tvg-name="TeleNovela Channel PH" tvg-logo="" group-title="Philippines",TeleNovela Channel PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463664
-#EXTINF:-1 tvg-id="" tvg-name="TFC Australia PH" tvg-logo="" group-title="Philippines",TFC Australia PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498628
-#EXTINF:-1 tvg-id="" tvg-name="TFC Canada PH" tvg-logo="" group-title="Philippines",TFC Canada PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498629
 
-#EXTINF:-1 tvg-id="tfc.ph" tvg-name="TFC HD PH" tvg-logo="" group-title="Philippines",TFC HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/33267
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
 
-#EXTINF:-1 tvg-id="tfc.ph" tvg-name="TFC PH" tvg-logo="" group-title="Philippines",TFC PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/41224
 
-#EXTINF:-1 tvg-id="" tvg-name="Thill PH" tvg-logo="" group-title="Philippines",Thill PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498633
-#EXTINF:-1 tvg-id="" tvg-name="Thrill PH " tvg-logo="" group-title="Philippines",Thrill PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463665
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD PH" tvg-logo="" group-title="Philippines",TLC HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144047
-#EXTINF:-1 tvg-id="" tvg-name="TLC PH " tvg-logo="" group-title="Philippines",TLC PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463666
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD PH " tvg-logo="" group-title="Philippines",Travel Channel HD PH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463667
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel PH" tvg-logo="" group-title="Philippines",Travel Channel PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/144048
-#EXTINF:-1 tvg-id="" tvg-name="Travel PH" tvg-logo="" group-title="Philippines",Travel PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/141606
-#EXTINF:-1 tvg-id="" tvg-name="TV Maria PH" tvg-logo="" group-title="Philippines",TV Maria PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/498634
 
-#EXTINF:-1 tvg-id="" tvg-name="TV5 PH" tvg-logo="" group-title="Philippines",TV5 PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463668
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Viva Cinema HD PH" tvg-logo="" group-title="Philippines",Viva Cinema HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463671
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD PH" tvg-logo="" group-title="Philippines",Warner TV HD PH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/463672  
----------------------------------------------------------------------------------------------VIETNAM--------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="animalplanet.vn" tvg-name="Animal Planet HD VN" tvg-logo="" group-title="Vietnam",Animal Planet HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115242
-#EXTINF:-1 tvg-id="" tvg-name="ANTV Cine M VN" tvg-logo="" group-title="Vietnam",ANTV Cine M VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/119464
-#EXTINF:-1 tvg-id="" tvg-name="ANTV HD VN" tvg-logo="" group-title="Vietnam",ANTV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115219
-#EXTINF:-1 tvg-id="" tvg-name="ANTV VN" tvg-logo="" group-title="Vietnam",ANTV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115249
-#EXTINF:-1 tvg-id="" tvg-name="ATV VN" tvg-logo="" group-title="Vietnam",ATV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115259
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT EXTREME HD VN" tvg-logo="" group-title="Vietnam",BLUE ANT EXTREME HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115236
-#EXTINF:-1 tvg-id="" tvg-name="Brian TV HD VN" tvg-logo="" group-title="Vietnam",Brian TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116083
-#EXTINF:-1 tvg-id="" tvg-name="BRT HD VN" tvg-logo="" group-title="Vietnam",BRT HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115265
-#EXTINF:-1 tvg-id="" tvg-name="CNN VN" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/800x451x1653982215/cmc_new/img.live_channel/0/0/0/0/176_logo_raw.png" group-title="Vietnam",CNN VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115237
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA", event 4A
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Da Nang TV1 VN" tvg-logo="" group-title="Vietnam",Da Nang TV1 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115217
-#EXTINF:-1 tvg-id="" tvg-name="Da Nang TV2 VN" tvg-logo="" group-title="Vietnam",Da Nang TV2 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115218
-#EXTINF:-1 tvg-id="" tvg-name="Dhammasapha TV HD VN" tvg-logo="" group-title="Vietnam",Dhammasapha TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116086
-#EXTINF:-1 tvg-id="" tvg-name="FBNC VN" tvg-logo="" group-title="Vietnam",FBNC VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115200
-#EXTINF:-1 tvg-id="" tvg-name="FilmRise (Sling) VN" tvg-logo="" group-title="Vietnam",FilmRise (Sling) VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115264
-#EXTINF:-1 tvg-id="" tvg-name="Gia Lai TV HD VN" tvg-logo="" group-title="Vietnam",Gia Lai TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116087
-#EXTINF:-1 tvg-id="" tvg-name="Good Idea TV HD VN" tvg-logo="" group-title="Vietnam",Good Idea TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116088
-#EXTINF:-1 tvg-id="" tvg-name="HBTV  VN" tvg-logo="" group-title="Vietnam",HBTV  VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115262
-#EXTINF:-1 tvg-id="" tvg-name="Hmong Star TV HD VN" tvg-logo="" group-title="Vietnam",Hmong Star TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116089
-#EXTINF:-1 tvg-id="" tvg-name="Hmong TV Network HD VN" tvg-logo="" group-title="Vietnam",Hmong TV Network HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116090
-#EXTINF:-1 tvg-id="" tvg-name="HmongUSA TV HD VN" tvg-logo="" group-title="Vietnam",HmongUSA TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116091
-#EXTINF:-1 tvg-id="" tvg-name="Horror (VietSling) VN" tvg-logo="" group-title="Vietnam",Horror (VietSling) VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115229
-#EXTINF:-1 tvg-id="" tvg-name="Houng Fa HD VN" tvg-logo="" group-title="Vietnam",Houng Fa HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116092
-#EXTINF:-1 tvg-id="" tvg-name="HTV 2 HD VN" tvg-logo="" group-title="Vietnam",HTV 2 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115209
-#EXTINF:-1 tvg-id="" tvg-name="HTV 3 HD VN" tvg-logo="" group-title="Vietnam",HTV 3 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115210
-#EXTINF:-1 tvg-id="" tvg-name="HTV 7 HD VN" tvg-logo="" group-title="Vietnam",HTV 7 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115211
-#EXTINF:-1 tvg-id="" tvg-name="HTV 9 HD VN" tvg-logo="" group-title="Vietnam",HTV 9 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115212
-#EXTINF:-1 tvg-id="" tvg-name="HTVC Dulich VN" tvg-logo="" group-title="Vietnam",HTVC Dulich VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115205
-#EXTINF:-1 tvg-id="" tvg-name="HTVC Giadinh VN" tvg-logo="" group-title="Vietnam",HTVC Giadinh VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115203
-#EXTINF:-1 tvg-id="" tvg-name="HTVC Phim VN" tvg-logo="" group-title="Vietnam",HTVC Phim VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115204
-#EXTINF:-1 tvg-id="" tvg-name="HTVC Thuan Viet VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png" group-title="Vietnam",HTVC Thuan Viet VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115202
-#EXTINF:-1 tvg-id="" tvg-name="IMovie VN" tvg-logo="" group-title="Vietnam",IMovie VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115208
-#EXTINF:-1 tvg-id="" tvg-name="ISTV HD VN" tvg-logo="" group-title="Vietnam",ISTV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116093
-#EXTINF:-1 tvg-id="" tvg-name="KDHL Television VN" tvg-logo="" group-title="Vietnam",KDHL Television VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/119463
-#EXTINF:-1 tvg-id="" tvg-name="KhmerTV FHD VN" tvg-logo="" group-title="Vietnam",KhmerTV FHD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116094
-#EXTINF:-1 tvg-id="" tvg-name="Khomsanh TV HD VN" tvg-logo="" group-title="Vietnam",Khomsanh TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116095
-#EXTINF:-1 tvg-id="" tvg-name="La 34 Viet VN" tvg-logo="" group-title="Vietnam",La 34 Viet VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115228
-#EXTINF:-1 tvg-id="" tvg-name="LA34 HD VN" tvg-logo="" group-title="Vietnam",LA34 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115269
-#EXTINF:-1 tvg-id="" tvg-name="Lao Champa TV 1 HD VN" tvg-logo="" group-title="Vietnam",Lao Champa TV 1 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116098
-#EXTINF:-1 tvg-id="" tvg-name="Lao Champa TV 2 HD VN" tvg-logo="" group-title="Vietnam",Lao Champa TV 2 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116097
-#EXTINF:-1 tvg-id="" tvg-name="Lao Champa TV 3 HD VN" tvg-logo="" group-title="Vietnam",Lao Champa TV 3 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116099
-#EXTINF:-1 tvg-id="" tvg-name="Lao Heritage Foundation TV HD VN" tvg-logo="" group-title="Vietnam",Lao Heritage Foundation TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116100
-#EXTINF:-1 tvg-id="" tvg-name="Lao Net TV HD VN" tvg-logo="" group-title="Vietnam",Lao Net TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116101
-#EXTINF:-1 tvg-id="" tvg-name="Lao SV TV VN" tvg-logo="" group-title="Vietnam",Lao SV TV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116102
-#EXTINF:-1 tvg-id="" tvg-name="Lao-Thai US TV HD VN" tvg-logo="" group-title="Vietnam",Lao-Thai US TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116103
-#EXTINF:-1 tvg-id="" tvg-name="Look Thoong TV HD VN" tvg-logo="" group-title="Vietnam",Look Thoong TV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116104
-#EXTINF:-1 tvg-id="" tvg-name="LS TV VN" tvg-logo="" group-title="Vietnam",LS TV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116105
-#EXTINF:-1 tvg-id="" tvg-name="NAT TV FHD VN" tvg-logo="" group-title="Vietnam",NAT TV FHD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116106
-#EXTINF:-1 tvg-id="" tvg-name="Ning TV VN" tvg-logo="" group-title="Vietnam",Ning TV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115232
-#EXTINF:-1 tvg-id="" tvg-name="Nữ Thần Chiến Binh 1984 FULL THUYẾT MINH VN" tvg-logo="" group-title="Vietnam",Nữ Thần Chiến Binh 1984 FULL THUYẾT MINH VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115254
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD VN" tvg-logo="" group-title="Vietnam",Paramount HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115250
-#EXTINF:-1 tvg-id="" tvg-name="PNTV HD VN" tvg-logo="" group-title="Vietnam",PNTV HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116107
-#EXTINF:-1 tvg-id="" tvg-name="PTP HD VN" tvg-logo="" group-title="Vietnam",PTP HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115270
-#EXTINF:-1 tvg-id="" tvg-name="QRT HD VN" tvg-logo="" group-title="Vietnam",QRT HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115221
-#EXTINF:-1 tvg-id="" tvg-name="Star World (Beam East VN)" tvg-logo="" group-title="Vietnam",Star World (Beam East VN)
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115258
-#EXTINF:-1 tvg-id="" tvg-name="THBT Viet VN" tvg-logo="" group-title="Vietnam",THBT Viet VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115213
-#EXTINF:-1 tvg-id="" tvg-name="The Thao VN" tvg-logo="" group-title="Vietnam",The Thao VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115201
-#EXTINF:-1 tvg-id="" tvg-name="THGL VN" tvg-logo="" group-title="Vietnam",THGL VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115271
-#EXTINF:-1 tvg-id="" tvg-name="THTG Channel VN" tvg-logo="" group-title="Vietnam",THTG Channel VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115223
-#EXTINF:-1 tvg-id="" tvg-name="THTG VN" tvg-logo="" group-title="Vietnam",THTG VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115272
-#EXTINF:-1 tvg-id="" tvg-name="Thám Hiểm Rừng Xanh FULL VIETSUB VN" tvg-logo="" group-title="Vietnam",Thám Hiểm Rừng Xanh FULL VIETSUB VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115251
-#EXTINF:-1 tvg-id="" tvg-name="Travinh VN" tvg-logo="" group-title="Vietnam",Travinh VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115206
-#EXTINF:-1 tvg-id="" tvg-name="V2H2 VN" tvg-logo="" group-title="Vietnam",V2H2 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115273
-#EXTINF:-1 tvg-id="" tvg-name="Viet Mov (En) VN" tvg-logo="" group-title="Vietnam",Viet Mov (En) VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115230
-#EXTINF:-1 tvg-id="" tvg-name="Viet Movie 1 VN" tvg-logo="" group-title="Vietnam",Viet Movie 1 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115266
-#EXTINF:-1 tvg-id="" tvg-name="Viet Movie 2 VN" tvg-logo="" group-title="Vietnam",Viet Movie 2 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115267
-#EXTINF:-1 tvg-id="" tvg-name="Viet Movie 3 VN" tvg-logo="" group-title="Vietnam",Viet Movie 3 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115268
-#EXTINF:-1 tvg-id="" tvg-name="Viet My VN" tvg-logo="" group-title="Vietnam",Viet My VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115216
-#EXTINF:-1 tvg-id="" tvg-name="Vietmagazine VN" tvg-logo="" group-title="Vietnam",Vietmagazine VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115252
-#EXTINF:-1 tvg-id="" tvg-name="VietMy VN" tvg-logo="" group-title="Vietnam",VietMy VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115260
-#EXTINF:-1 tvg-id="" tvg-name="VietNews Saigon VN" tvg-logo="" group-title="Vietnam",VietNews Saigon VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115261
-#EXTINF:-1 tvg-id="" tvg-name="Vietnews VN" tvg-logo="" group-title="Vietnam",Vietnews VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115215
-#EXTINF:-1 tvg-id="" tvg-name="VITV VN" tvg-logo="" group-title="Vietnam",VITV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115224
-#EXTINF:-1 tvg-id="" tvg-name="VTV 1 VN" tvg-logo="" group-title="Vietnam",VTV 1 VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115231
-#EXTINF:-1 tvg-id="" tvg-name="VTV 1 HD VN" tvg-logo="" group-title="Vietnam",VTV 1 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115186
-#EXTINF:-1 tvg-id="" tvg-name="VTV 2 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png" group-title="Vietnam",VTV 2 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115187
-#EXTINF:-1 tvg-id="" tvg-name="VTV 3 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png" group-title="Vietnam",VTV 3 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115188
-#EXTINF:-1 tvg-id="" tvg-name="VTV 4 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png" group-title="Vietnam",VTV 4 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115189
-#EXTINF:-1 tvg-id="" tvg-name="VTV 5 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822547208/f54ea5aae42c_480_270.png" group-title="Vietnam",VTV 5 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115190
-#EXTINF:-1 tvg-id="" tvg-name="VTV 6 HD VN" tvg-logo="" group-title="Vietnam",VTV 6 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115191
-#EXTINF:-1 tvg-id="" tvg-name="VTV 7 HD VN" tvg-logo="" group-title="Vietnam",VTV 7 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115192
-#EXTINF:-1 tvg-id="" tvg-name="VTV 8 HD VN" tvg-logo="" group-title="Vietnam",VTV 8 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115193
-#EXTINF:-1 tvg-id="" tvg-name="VTV 9 HD VN" tvg-logo="" group-title="Vietnam",VTV 9 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115194
-#EXTINF:-1 tvg-id="" tvg-name="VTC 1 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822333227/695ef75f0c5b_480_270.png" group-title="Vietnam",VTC 1 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115195
-#EXTINF:-1 tvg-id="" tvg-name="VTC 9 HD VN" tvg-logo="" group-title="Vietnam",VTC 9 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115197
-#EXTINF:-1 tvg-id="" tvg-name="VTC 14 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822452264/9aee0be36d19_480_270.png" group-title="Vietnam",VTC 14 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115198
-#EXTINF:-1 tvg-id="" tvg-name="VTC 16 HD VN" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6_480_270.png" group-title="Vietnam",VTC 16 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115199
-#EXTINF:-1 tvg-id="" tvg-name="VTC 3 HD VN" tvg-logo="" group-title="Vietnam",VTC 3 HD VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115196
-#EXTINF:-1 tvg-id="" tvg-name="Vung Tau TV VN" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/800x451x1647312718/cmc_new/img.live_channel/0/0/0/0/18_logo_raw.png" group-title="Vietnam",Vung Tau TV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115225
-#EXTINF:-1 tvg-id="" tvg-name="You TV VN" tvg-logo="" group-title="Vietnam",You TV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115207
-#EXTINF:-1 tvg-id="" tvg-name="YTV VN" tvg-logo="" group-title="Vietnam",YTV VN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115226
-------------------------------------------------------------------------------------------THAILAND---------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Black Cinema (Sling) TH" tvg-logo="" group-title="Thailand",Black Cinema (Sling) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563014
-#EXTINF:-1 tvg-id="" tvg-name="-= Thailand =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Thailand.png" group-title="Thailand",-= Thailand =-
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/16619
-#EXTINF:-1 tvg-id="" tvg-name="&flix (Movies) TH" tvg-logo="" group-title="Thailand",&flix (Movies) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115601
-#EXTINF:-1 tvg-id="" tvg-name="&pictures TH" tvg-logo="" group-title="Thailand",&pictures TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115602
-#EXTINF:-1 tvg-id="" tvg-name="&prive (Movies) TH" tvg-logo="" group-title="Thailand",&prive (Movies) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115603
-#EXTINF:-1 tvg-id="" tvg-name="69TV TH" tvg-logo="" group-title="Thailand",69TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115604
-#EXTINF:-1 tvg-id="" tvg-name="ABC Australia TH" tvg-logo="" group-title="Thailand",ABC Australia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115605
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Asia TH" tvg-logo="" group-title="Thailand",Al Jazeera Asia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115606
-#EXTINF:-1 tvg-id="" tvg-name="Amarin HD TH" tvg-logo="" group-title="Thailand",Amarin HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115297
-#EXTINF:-1 tvg-id="" tvg-name="AMARIN TH" tvg-logo="" group-title="Thailand",AMARIN TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115608
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet TH" tvg-logo="" group-title="Thailand",Animal Planet TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115610
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS TH" tvg-logo="" group-title="Thailand",ANIPLUS TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115609
-#EXTINF:-1 tvg-id="" tvg-name="Arirang TH" tvg-logo="" group-title="Thailand",Arirang TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115308
-#EXTINF:-1 tvg-id="asianfoodchannel.th" tvg-name="Asian Food Channel TH" tvg-logo="" group-title="Thailand",Asian Food Channel TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115611
-#EXTINF:-1 tvg-id="trueasianseries.th" tvg-name="Asian Series HD TH" tvg-logo="" group-title="Thailand",Asian Series HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115612
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD TH " tvg-logo="" group-title="Thailand",Astro Cricket HD TH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115614
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 1 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115615
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 2 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115616
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 3 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115617
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="Thailand",ASTRO SUPERSPORTS 4 HD TH MY
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115618
-#EXTINF:-1 tvg-id="" tvg-name="ASTV News HD TH" tvg-logo="" group-title="Thailand",ASTV News HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38202
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD TH" tvg-logo="" group-title="Thailand",AXN HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115619
-#EXTINF:-1 tvg-id="" tvg-name="AXN TH" tvg-logo="" group-title="Thailand",AXN TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115620
-#EXTINF:-1 tvg-id="" tvg-name="Asian More HD (Truevision) TH" tvg-logo="" group-title="Thailand",Asian More HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563002
-#EXTINF:-1 tvg-id="" tvg-name="Asian More SD (Truevision) TH" tvg-logo="" group-title="Thailand",Asian More SD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563003
+#####liga prancis#####
 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115410
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth /FoxFam HD TH" tvg-logo="" group-title="Thailand",BBC Earth /FoxFam HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115622
-#EXTINF:-1 tvg-id="bbcearth.th" tvg-name="BBC Earth HD TH" tvg-logo="" group-title="Thailand",BBC Earth HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115621
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth [Thai] TH" tvg-logo="" group-title="Thailand",BBC Earth [Thai] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115624
-#EXTINF:-1 tvg-id="bbclife.th" tvg-name="BBC Lifestyle HD/Disc.Science [Thai] TH" tvg-logo="" group-title="Thailand",BBC Lifestyle HD/Disc.Science [Thai] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115625
-#EXTINF:-1 tvg-id="bbclife.th" tvg-name="BBC Lifestyle HD TH" tvg-logo="" group-title="Thailand",BBC Lifestyle HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115626
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD TH" tvg-logo="" group-title="Thailand",BBC World News HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115627
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment HD TH" tvg-logo="" group-title="Thailand",Blue Ant Entertainment HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115628
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment TH" tvg-logo="" group-title="Thailand",Blue Ant Entertainment TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115629
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme HD TH" tvg-logo="" group-title="Thailand",Blue Ant Extreme HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115630
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Extreme TH" tvg-logo="" group-title="Thailand",Blue Ant Extreme TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115631
-#EXTINF:-1 tvg-id="" tvg-name="Boonniyom TV HD TH" tvg-logo="" group-title="Thailand",Boonniyom TV HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115834
-#EXTINF:-1 tvg-id="" tvg-name="BTV Mekhong TH" tvg-logo="" group-title="Thailand",BTV Mekhong TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115312
-#EXTINF:-1 tvg-id="" tvg-name="BTV News TH" tvg-logo="" group-title="Thailand",BTV News TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38173
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 1 HD TH" tvg-logo="" group-title="Thailand",CABLE SERIES 1 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115598
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 2 TH" tvg-logo="" group-title="Thailand",CABLE SERIES 2 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115599
-#EXTINF:-1 tvg-id="" tvg-name="CABLE SERIES 3 HD TH" tvg-logo="" group-title="Thailand",CABLE SERIES 3 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115600
-#EXTINF:-1 tvg-id="" tvg-name="CableMovie TH [Thai]" tvg-logo="" group-title="Thailand",CableMovie TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115655
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Club TH" tvg-logo="" group-title="Thailand",Cartoon Club TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115324
-#EXTINF:-1 tvg-id="cartoonnetwork.th" tvg-name="Cartoon Network HD TH" tvg-logo="" group-title="Thailand",Cartoon Network HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115632
-#EXTINF:-1 tvg-id="cartoonnetwork.th" tvg-name="CartoonClub TH" tvg-logo="" group-title="Thailand",CartoonClub TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115633
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies TH" tvg-logo="" group-title="Thailand",Celestial Classic Movies TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115635
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies [Thai-ENG] TH" tvg-logo="" group-title="Thailand",Celestial Classic Movies [Thai-ENG] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115636
-#EXTINF:-1 tvg-id="" tvg-name="Ch8 TH" tvg-logo="" group-title="Thailand",Ch8 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115341
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 TH" tvg-logo="" group-title="Thailand",Channel 3 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115313
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 HD TH" tvg-logo="" group-title="Thailand",Channel 5 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115640
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 TH" tvg-logo="" group-title="Thailand",Channel 5 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115641
-#EXTINF:-1 tvg-id="" tvg-name="Channel 7 HD TH" tvg-logo="" group-title="Thailand",Channel 7 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115642
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8 TH" tvg-logo="" group-title="Thailand",Channel 8 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115644
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD TH" tvg-logo="" group-title="Thailand",CINEMAX HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116078
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax TH" tvg-logo="" group-title="Thailand",Cinemax TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115646
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX TH" tvg-logo="" group-title="Thailand",CINEMAX TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116079
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia TH" tvg-logo="" group-title="Thailand",CNN Indonesia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115307
-#EXTINF:-1 tvg-id="" tvg-name="CNN TH" tvg-logo="" group-title="Thailand",CNN TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115634
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation TH" tvg-logo="" group-title="Thailand",Crime & Investigation TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115649
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 5+ Sport HD (CN) TH" tvg-logo="" group-title="Thailand",CCTV 5+ Sport HD (CN) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563008
-#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia TH" tvg-logo="" group-title="Thailand",Channel News Asia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563000
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia TH" tvg-logo="" group-title="Thailand",CNBC Asia TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562999
-#EXTINF:-1 tvg-id="" tvg-name="Chinese More HD (Truevision) TH" tvg-logo="" group-title="Thailand",Chinese More HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563004
-#EXTINF:-1 tvg-id="" tvg-name="Chinese More (Truevision) TH" tvg-logo="" group-title="Thailand",Chinese More (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563005
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Discovery Asia HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115650
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Discovery HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115652
-#EXTINF:-1 tvg-id="" tvg-name="Discovery TH" tvg-logo="" group-title="Thailand",Discovery TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115399
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior [Thai] TH" tvg-logo="" group-title="Thailand",Disney Junior [Thai] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115654
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 1 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 1 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115835
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 10 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 10 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115844
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 11 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 11 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115845
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 12 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 12 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115846
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 13 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 13 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115847
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 14 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 14 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115848
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 15 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 15 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115849
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 2 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115836
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 3 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 3 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115837
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 4 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 4 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115838
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 5 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 5 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115839
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 6 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 6 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115840
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 7 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 7 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115841
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 8 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 8 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115842
-#EXTINF:-1 tvg-id="" tvg-name="DLTV 9 HD TH [Thai]" tvg-logo="" group-title="Thailand",DLTV 9 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115843
-#EXTINF:-1 tvg-id="" tvg-name="Dazzling Cartoon (CN) TH" tvg-logo="" group-title="Thailand",Dazzling Cartoon (CN) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563010
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD (Truevision) TH" tvg-logo="" group-title="Thailand",Dreamworks HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563011
-#EXTINF:-1 tvg-id="" tvg-name="Dreamsworks (Truevision) TH" tvg-logo="" group-title="Thailand",Dreamsworks (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563012
-#EXTINF:-1 tvg-id="" tvg-name="ETV TH" tvg-logo="" group-title="Thailand",ETV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115329
-#EXTINF:-1 tvg-id="" tvg-name="Explore Life TH [Thai]" tvg-logo="" group-title="Thailand",Explore Life TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115659
-#EXTINF:-1 tvg-id="" tvg-name="Explore Science HD TH [Thai]" tvg-logo="" group-title="Thailand",Explore Science HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115660
-#EXTINF:-1 tvg-id="" tvg-name="Explore Wild TH  [ENG]" tvg-logo="" group-title="Thailand",Explore Wild TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115408
-#EXTINF:-1 tvg-id="" tvg-name="Explore Wild TH [Thai]" tvg-logo="" group-title="Thailand",Explore Wild TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115663
-#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="" group-title="Thailand",Fight Night TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115320
-#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="" group-title="Thailand",Fightclub (Sling) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115303
-#EXTINF:-1 tvg-id="" tvg-name="Film HD TH 2 TH  [ENG]" tvg-logo="" group-title="Thailand",Film HD TH 2 TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115415
-#EXTINF:-1 tvg-id="" tvg-name="FILM HD TH [Thai]" tvg-logo="" group-title="Thailand",FILM HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115667
-#EXTINF:-1 tvg-id="" tvg-name="FILM TH" tvg-logo="" group-title="Thailand",FILM TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115414
-#EXTINF:-1 tvg-id="" tvg-name="FILMASIA HD TH [Thai]" tvg-logo="" group-title="Thailand",FILMASIA HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115665
-#EXTINF:-1 tvg-id="" tvg-name="FILMASIA TH" tvg-logo="" group-title="Thailand",FILMASIA TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115412
-#EXTINF:-1 tvg-id="" tvg-name="Food Network HD TH" tvg-logo="" group-title="Thailand",Food Network HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115672
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Fox Action HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115673
-#EXTINF:-1 tvg-id="" tvg-name="Fox Action TH" tvg-logo="" group-title="Thailand",Fox Action TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115420
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Fox Family Movies HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115675
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies TH" tvg-logo="" group-title="Thailand",Fox Family Movies TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115422
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD TH [Thai-ENG]" tvg-logo="" group-title="Thailand",Fox Life HD TH [Thai-ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115679
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life TH" tvg-logo="" group-title="Thailand",Fox Life TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115426
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium TH" tvg-logo="" group-title="Thailand",Fox Movies Premium TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115424
-#EXTINF:-1 tvg-id="" tvg-name="Family Flix (Eng) TH" tvg-logo="" group-title="Thailand",Family Flix (Eng) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563015
-#EXTINF:-1 tvg-id="" tvg-name="SPOtv 1 HD TH" tvg-logo="" group-title="Thailand",SPOtv 1 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115304
-#EXTINF:-1 tvg-id="foxsports.th" tvg-name="SPOtv 1 HD TH  [ENG]" tvg-logo="" group-title="Thailand",SPOtv 1 HD TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115427
-#EXTINF:-1 tvg-id="foxsports.th" tvg-name="SPOtv 1 HD TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 1 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115682
-#EXTINF:-1 tvg-id="" tvg-name="SPOtv 1 TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 1 TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115684
-#EXTINF:-1 tvg-id="foxsport2.th" tvg-name="SPOtv 2 HD TH" tvg-logo="" group-title="Thailand",SPOtv 2 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115305
-#EXTINF:-1 tvg-id="foxsport2.th" tvg-name="SPOtv 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 2 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115686
-#EXTINF:-1 tvg-id="" tvg-name="SPOtv 2 TH  [ENG]" tvg-logo="" group-title="Thailand",SPOtv 2 TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115433
-#EXTINF:-1 tvg-id="" tvg-name="SPOtv 2 TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 2 TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115688
-#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 FHD TH" tvg-logo="" group-title="Thailand",SPOtv 3 FHD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/36948
-#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 HD TH" tvg-logo="" group-title="Thailand",SPOtv 3 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115306
-#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 TH  [ENG]" tvg-logo="" group-title="Thailand",SPOtv 3 TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115689
-#EXTINF:-1 tvg-id="foxsport3.th" tvg-name="SPOtv 3 TH [Thai]" tvg-logo="" group-title="Thailand",SPOtv 3 TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115690
-#EXTINF:-1 tvg-id="" tvg-name="FOX Thai HD TH  [ENG]" tvg-logo="" group-title="Thailand",FOX Thai HD TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115691
-#EXTINF:-1 tvg-id="" tvg-name="FOX Thai TH  [ENG]" tvg-logo="" group-title="Thailand",FOX Thai TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115439
-#EXTINF:-1 tvg-id="" tvg-name="FOX Thai TH [Thai]" tvg-logo="" group-title="Thailand",FOX Thai TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115694
-#EXTINF:-1 tvg-id="" tvg-name="GMM Channel TH" tvg-logo="" group-title="Thailand",GMM Channel TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115441
-#EXTINF:-1 tvg-id="" tvg-name="GMM One TH" tvg-logo="" group-title="Thailand",GMM One TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115443
-#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",Golf 2 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115698
-#EXTINF:-1 tvg-id="" tvg-name="Golf 2 TH [Thai]" tvg-logo="" group-title="Thailand",Golf 2 TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115699
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Thailand HD TH" tvg-logo="" group-title="Thailand",Golf Channel Thailand HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115446
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Thailand TH" tvg-logo="" group-title="Thailand",Golf Channel Thailand TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115447
-#EXTINF:-1 tvg-id="" tvg-name="GOLF HD TH  [ENG]" tvg-logo="" group-title="Thailand",GOLF HD TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115702
-#EXTINF:-1 tvg-id="" tvg-name="Astro Golf HD TH" tvg-logo="" group-title="Thailand",Astro Golf HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115703
-#EXTINF:-1 tvg-id="" tvg-name="GOOD TV TH" tvg-logo="" group-title="Thailand",GOOD TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115326
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature TH" tvg-logo="" group-title="Thailand",HBO Signature TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115708
-#EXTINF:-1 tvg-id="" tvg-name="HBO TH  [ENG]" tvg-logo="" group-title="Thailand",HBO TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115704
-#EXTINF:-1 tvg-id="" tvg-name="HBO TH [Thai]" tvg-logo="" group-title="Thailand",HBO TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115705
-#EXTINF:-1 tvg-id="" tvg-name="HBO* HD TH" tvg-logo="" group-title="Thailand",HBO* HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115833
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD (Truevision) TH" tvg-logo="" group-title="Thailand",HBO Family HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563001
-#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="" group-title="Thailand",Hi Sport TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115709
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD TH  [ENG]" tvg-logo="" group-title="Thailand",History 2 HD TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115710
-#EXTINF:-1 tvg-id="" tvg-name="History 2 HD TH [Thai]" tvg-logo="" group-title="Thailand",History 2 HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115711
-#EXTINF:-1 tvg-id="history2.th" tvg-name="History 2 TH  [ENG]" tvg-logo="" group-title="Thailand",History 2 TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115712
-#EXTINF:-1 tvg-id="" tvg-name="History 2 TH [Thai]" tvg-logo="" group-title="Thailand",History 2 TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115713
-#EXTINF:-1 tvg-id="" tvg-name="History HD TH  [ENG]" tvg-logo="" group-title="Thailand",History HD TH  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115714
-#EXTINF:-1 tvg-id="" tvg-name="History HD TH [Thai]" tvg-logo="" group-title="Thailand",History HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115715
-#EXTINF:-1 tvg-id="" tvg-name="Hits-Movies HD TH" tvg-logo="" group-title="Thailand",Hits-Movies HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115720
-#EXTINF:-1 tvg-id="" tvg-name="Inside HD TH " tvg-logo="" group-title="Thailand",Inside HD TH 
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115721
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD TH" tvg-logo="" group-title="Thailand",KBS World HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115723
-#EXTINF:-1 tvg-id="" tvg-name="Korean More HD (Truevision) TH" tvg-logo="" group-title="Thailand",Korean More HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563006
-#EXTINF:-1 tvg-id="" tvg-name="Korean More SD (Truevision) TH" tvg-logo="" group-title="Thailand",Korean More SD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563007
-#EXTINF:-1 tvg-id="" tvg-name="Lao Campa TV TH" tvg-logo="" group-title="Thailand",Lao Campa TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115331
-#EXTINF:-1 tvg-id="" tvg-name="Lao Campa TV2 TH" tvg-logo="" group-title="Thailand",Lao Campa TV2 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115332
-#EXTINF:-1 tvg-id="" tvg-name="Lao-Thai TV USA TH" tvg-logo="" group-title="Thailand",Lao-Thai TV USA TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115333
-#EXTINF:-1 tvg-id="" tvg-name="Laos DDTV TH" tvg-logo="" group-title="Thailand",Laos DDTV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115335
-#EXTINF:-1 tvg-id="" tvg-name="Laos ISTV TH" tvg-logo="" group-title="Thailand",Laos ISTV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115336
-#EXTINF:-1 tvg-id="" tvg-name="Laos TV TH" tvg-logo="" group-title="Thailand",Laos TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115330
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE TH (TH-ENG)" tvg-logo="" group-title="Thailand",LOVE NATURE TH (TH-ENG)
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115724
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime (Truevision) TH" tvg-logo="" group-title="Thailand",Lifetime (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562996
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD (Truevision) TH" tvg-logo="" group-title="Thailand",Lifetime HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562998
-#EXTINF:-1 tvg-id="" tvg-name="Latin Zone TV TH" tvg-logo="" group-title="Thailand",Latin Zone TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/563009
-#EXTINF:-1 tvg-id="" tvg-name="Major Channel Mix TH" tvg-logo="" group-title="Thailand",Major Channel Mix TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115725
-#EXTINF:-1 tvg-id="" tvg-name="MajorMix TH" tvg-logo="" group-title="Thailand",MajorMix TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115310
-#EXTINF:-1 tvg-id="" tvg-name="MCOT TH" tvg-logo="" group-title="Thailand",MCOT TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115727
-#EXTINF:-1 tvg-id="" tvg-name="MONO29 TH" tvg-logo="" group-title="Thailand",MONO29 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115728
-#EXTINF:-1 tvg-id="" tvg-name="MOVIE-HITS TH [Thai]" tvg-logo="" group-title="Thailand",MOVIE-HITS TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115729
-#EXTINF:-1 tvg-id="" tvg-name="MTN News TH (KR)" tvg-logo="" group-title="Thailand",MTN News TH (KR)
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115730
-#EXTINF:-1 tvg-id="" tvg-name="MTV YO! TH" tvg-logo="" group-title="Thailand",MTV YO! TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115323
-#EXTINF:-1 tvg-id="" tvg-name="Music4U TH" tvg-logo="" group-title="Thailand",Music4U TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115731
-#EXTINF:-1 tvg-id="" tvg-name="MVLAO TH" tvg-logo="" group-title="Thailand",MVLAO TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115334
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD TH [Thai]" tvg-logo="" group-title="Thailand",Nat Geo HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115733
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD TH" tvg-logo="" group-title="Thailand",Nat Geo Wild HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115735
-#EXTINF:-1 tvg-id="" tvg-name="NATION TV TH" tvg-logo="" group-title="Thailand",NATION TV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115737
-#EXTINF:-1 tvg-id="" tvg-name="NBA HD TH" tvg-logo="" group-title="Thailand",NBA HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115738
-#EXTINF:-1 tvg-id="" tvg-name="NBA TH" tvg-logo="" group-title="Thailand",NBA TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115302
-#EXTINF:-1 tvg-id="" tvg-name="NBT 2 HD TH" tvg-logo="" group-title="Thailand",NBT 2 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115337
-#EXTINF:-1 tvg-id="" tvg-name="NBT HD TH" tvg-logo="" group-title="Thailand",NBT HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115740
-#EXTINF:-1 tvg-id="" tvg-name="News 1 TH" tvg-logo="" group-title="Thailand",News 1 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115343
-#EXTINF:-1 tvg-id="" tvg-name="NFL HD TH" tvg-logo="" group-title="Thailand",NFL HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115742
-#EXTINF:-1 tvg-id="" tvg-name="NFL TH" tvg-logo="" group-title="Thailand",NFL TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115743
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan TH" tvg-logo="" group-title="Thailand",NHK World Japan TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115745
-#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="" group-title="Thailand",One Golf TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115325
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD TH" tvg-logo="" group-title="Thailand",Outdoor Channel HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115749
-#EXTINF:-1 tvg-id="" tvg-name="Paramount TH" tvg-logo="" group-title="Thailand",Paramount TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115498
-#EXTINF:-1 tvg-id="" tvg-name="PBS HD TH" tvg-logo="" group-title="Thailand",PBS HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38128
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix InfoNews (CN)" tvg-logo="" group-title="Thailand",Phoenix InfoNews (CN)
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115499
-#EXTINF:-1 tvg-id="" tvg-name="Police TV HD TH" tvg-logo="" group-title="Thailand",Police TV HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/116076
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD TH" tvg-logo="" group-title="Thailand",PPTV HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115501
-#EXTINF:-1 tvg-id="" tvg-name="PPTV TH" tvg-logo="" group-title="Thailand",PPTV TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115756
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="" group-title="Thailand",Premier Football 1 TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115757
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 1  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115758
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1 [Thai]" tvg-logo="" group-title="Thailand",Premier Football HD TH 1 [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115759
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1-X [Thai]" tvg-logo="" group-title="Thailand",Premier Football HD TH 1-X [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115760
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115762
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 2  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115508
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2-X [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 2-X [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115509
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="" group-title="Thailand",Premier Football HD TH 3
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115510
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="" group-title="Thailand",Premier Football HD TH 3 [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115511
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3-X" tvg-logo="" group-title="Thailand",Premier Football HD TH 3-X
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115512
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="" group-title="Thailand",Premier Football HD TH 4
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115513
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="" group-title="Thailand",Premier Football HD TH 4-X
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115768
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="" group-title="Thailand",Premier Football HD TH 5
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115515
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1  [ENG]" tvg-logo="" group-title="Thailand",Premier Football TH 1  [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115516
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1-X [Thai]" tvg-logo="" group-title="Thailand",Premier Football TH 1-X [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115771
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 2 [ENG]" tvg-logo="" group-title="Thailand",Premier Football TH 2 [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115518
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3" tvg-logo="" group-title="Thailand",Premier Football TH 3
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115520
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3 [ENG]" tvg-logo="" group-title="Thailand",Premier Football TH 3 [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115521
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3-X" tvg-logo="" group-title="Thailand",Premier Football TH 3-X
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115522
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4" tvg-logo="" group-title="Thailand",Premier Football TH 4
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115523
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4-X" tvg-logo="" group-title="Thailand",Premier Football TH 4-X
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115524
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 5" tvg-logo="" group-title="Thailand",Premier Football TH 5
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115525
-#EXTINF:-1 tvg-id="" tvg-name="Reality Channel HD TH" tvg-logo="" group-title="Thailand",Reality Channel HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115526
-#EXTINF:-1 tvg-id="" tvg-name="Retro Music TH" tvg-logo="" group-title="Thailand",Retro Music TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115322
-#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment HD (True) TH" tvg-logo="" group-title="Thailand",Rock Entertainment HD (True) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562995
-#EXTINF:-1 tvg-id="" tvg-name="Rock Extreme HD (Truevision) TH" tvg-logo="" group-title="Thailand",Rock Extreme HD (Truevision) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/562997
-#EXTINF:-1 tvg-id="" tvg-name="Russia Today TH" tvg-logo="" group-title="Thailand",Russia Today TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115527
-#EXTINF:-1 tvg-id="" tvg-name="SERIES [Thai] TH" tvg-logo="" group-title="Thailand",SERIES [Thai] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115782
-#EXTINF:-1 tvg-id="" tvg-name="Skynetsport 3 FHD TH" tvg-logo="" group-title="Thailand",Skynetsport 3 FHD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115937
-#EXTINF:-1 tvg-id="" tvg-name="Skynetsports 1 FHD TH" tvg-logo="" group-title="Thailand",Skynetsports 1 FHD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115850
-#EXTINF:-1 tvg-id="" tvg-name="Skynetsports 2 FHD TH" tvg-logo="" group-title="Thailand",Skynetsports 2 FHD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115851
-#EXTINF:-1 tvg-id="" tvg-name="Spark Jump TH" tvg-logo="" group-title="Thailand",Spark Jump TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115529
-#EXTINF:-1 tvg-id="" tvg-name="Spark Play [THAI] TH" tvg-logo="" group-title="Thailand",Spark Play [THAI] TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115784
-#EXTINF:-1 tvg-id="" tvg-name="Sport 2 TH [ENG]" tvg-logo="" group-title="Thailand",Sport 2 TH [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115790
-#EXTINF:-1 tvg-id="" tvg-name="Sport 2 [THAI]" tvg-logo="" group-title="Thailand",Sport 2 [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115534
-#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="" group-title="Thailand",Sport 5 TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115541
-#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="" group-title="Thailand",Sport 6 TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115542
-#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="" group-title="Thailand",Sport 7 TH [ENG]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115798
-#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="" group-title="Thailand",Sport 7 TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115799
-#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="" group-title="Thailand",Sport HD TH 1[THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115531
-#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="" group-title="Thailand",Sport HD TH 2 [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115533
-#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="" group-title="Thailand",Sport HD TH 3 [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115537
-#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="" group-title="Thailand",Sport TH 1 [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115532
-#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="" group-title="Thailand",Sport TH 2 [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115535
-#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="" group-title="Thailand",Sport TH 3 [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115538
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Classics HD TH" tvg-logo="" group-title="Thailand",Star Chinese Classics HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115546
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Classics TH" tvg-logo="" group-title="Thailand",Star Chinese Classics TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115547
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD TH" tvg-logo="" group-title="Thailand",Star Chinese Movies HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115802
-#EXTINF:-1 tvg-id="" tvg-name="StarWorld TH" tvg-logo="" group-title="Thailand",StarWorld TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115804
-#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="" group-title="Thailand",Super Bunteung/FightBox
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115500
-#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="" group-title="Thailand",Tennis HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115805
-#EXTINF:-1 tvg-id="" tvg-name="Thai 33 HD TH" tvg-logo="" group-title="Thailand",Thai 33 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115299
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai BeIN Sports 1 HD TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115807
-#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai BeIN Sports 2 HD TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115809
-#EXTINF:-1 tvg-id="" tvg-name="Thai Film HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai Film HD TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115416
-#EXTINF:-1 tvg-id="" tvg-name="Thai Film TH [THAI]" tvg-logo="" group-title="Thailand",Thai Film TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115417
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD TH" tvg-logo="" group-title="Thailand",Thai PBS HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/38107
-#EXTINF:-1 tvg-id="" tvg-name="Thai PBS HD TH [THAI]" tvg-logo="" group-title="Thailand",Thai PBS HD TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115812
-#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="" group-title="Thailand",Thairath HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115328
-#EXTINF:-1 tvg-id="" tvg-name="ThaiRath HD TH [THAI]" tvg-logo="" group-title="Thailand",ThaiRath HD TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115814
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD TH" tvg-logo="" group-title="Thailand",TLC HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115402
-#EXTINF:-1 tvg-id="" tvg-name="TLC TH" tvg-logo="" group-title="Thailand",TLC TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115403
-#EXTINF:-1 tvg-id="" tvg-name="TNN 2 TH" tvg-logo="" group-title="Thailand",TNN 2 TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115816
-#EXTINF:-1 tvg-id="" tvg-name="TNN24 TH [THAI]" tvg-logo="" group-title="Thailand",TNN24 TH [THAI]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115817
-#EXTINF:-1 tvg-id="" tvg-name="Toonee TH" tvg-logo="" group-title="Thailand",Toonee TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115819
-#EXTINF:-1 tvg-id="" tvg-name="Top News HD TH [Thai]" tvg-logo="" group-title="Thailand",Top News HD TH [Thai]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115818
-#EXTINF:-1 tvg-id="" tvg-name="Trace Sport TH" tvg-logo="" group-title="Thailand",Trace Sport TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115318
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD TH [Multi Audio]" tvg-logo="" group-title="Thailand",Travel Channel HD TH [Multi Audio]
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115832
-#EXTINF:-1 tvg-id="" tvg-name="True Music TH" tvg-logo="" group-title="Thailand",True Music TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115820
-#EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="" group-title="Thailand",True4U TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115301
-#EXTINF:-1 tvg-id="" tvg-name="TV CABLE 5 HD TH" tvg-logo="" group-title="Thailand",TV CABLE 5 HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115831
-#EXTINF:-1 tvg-id="" tvg-name="TV Direct TH" tvg-logo="" group-title="Thailand",TV Direct TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115339
-#EXTINF:-1 tvg-id="" tvg-name="TVB HD (Movies) TH" tvg-logo="" group-title="Thailand",TVB HD (Movies) TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115317
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD TH" tvg-logo="" group-title="Thailand",Warner TV HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115823
-#EXTINF:-1 tvg-id="" tvg-name="White Channel FHD TH" tvg-logo="" group-title="Thailand",White Channel FHD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/37103
-#EXTINF:-1 tvg-id="" tvg-name="Workpoint HD TH" tvg-logo="" group-title="Thailand",Workpoint HD TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115825
-#EXTINF:-1 tvg-id="" tvg-name="Workpoint TH" tvg-logo="" group-title="Thailand",Workpoint TH
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115826
---------------------------------------------------------------JAPAN-CHINA--------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Animax JP" tvg-logo="" group-title="Japan",Animax JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567739
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", Eleven 1A
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BS TV Tokyo JP" tvg-logo="" group-title="Japan",BS TV Tokyo JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567737
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", Euro sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="KRet Channel JP" tvg-logo="" group-title="Japan",KRet Channel JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567745
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MX Live (Webcam) JP" tvg-logo="" group-title="Japan",MX Live (Webcam) JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568328
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA", Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="NHK BSP JP" tvg-logo="" group-title="Japan",NHK BSP JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568330
-#EXTINF:-1 tvg-id="" tvg-name="NHK E JP" tvg-logo="" group-title="Japan",NHK E JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568331
-#EXTINF:-1 tvg-id="" tvg-name="NHK G JP" tvg-logo="" group-title="Japan",NHK G JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568332
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan HD JP" tvg-logo="" group-title="Japan",NHK World Japan HD JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568334
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan FHD JP" tvg-logo="" group-title="Japan",NHK World Japan FHD JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568333
-#EXTINF:-1 tvg-id="" tvg-name="NHK World JP" tvg-logo="" group-title="Japan",NHK World JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567736
+#####liga belanda#####
 
-#EXTINF:-1 tvg-id="" tvg-name="NTV News 24 JP" tvg-logo="" group-title="Japan",NTV News 24 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568336
-#EXTINF:-1 tvg-id="" tvg-name="NTV News 24 FHD JP" tvg-logo="" group-title="Japan",NTV News 24 FHD JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568335
-#EXTINF:-1 tvg-id="" tvg-name="QVC Japan JP" tvg-logo="" group-title="Japan",QVC Japan JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568338
-#EXTINF:-1 tvg-id="" tvg-name="Shop Channel JP" tvg-logo="" group-title="Japan",Shop Channel JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568339
+#EXTINF:-1 group-title="Liga EROPA"  tvg-id="TVRINasional.id" tvg-logo="https://i-meatballs.bunkr.ru/tvri-sport-yUJK2s9h.png?download=true",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TBS News JP" tvg-logo="" group-title="Japan",TBS News JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568343
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo - Narita Airport JP" tvg-logo="" group-title="Japan",Tokyo - Narita Airport JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/567743
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 1 JP" tvg-logo="" group-title="Japan",Tokyo MX 1 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568345
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 1 HD JP" tvg-logo="" group-title="Japan",Tokyo MX 1 HD JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568346
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 2 JP" tvg-logo="" group-title="Japan",Tokyo MX 2 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568347
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX 2 HD JP" tvg-logo="" group-title="Japan",Tokyo MX 2 HD JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568348
-#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo JP" tvg-logo="" group-title="Japan",TV Tokyo JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568344
-#EXTINF:-1 tvg-id="" tvg-name="Weather News JP" tvg-logo="" group-title="Japan",Weather News JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568349
-#EXTINF:-1 tvg-id="" tvg-name="Weather News HD JP" tvg-logo="" group-title="Japan",Weather News HD JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568350
-#EXTINF:-1 tvg-id="" tvg-name="ウェザーニュース JP" tvg-logo="" group-title="Japan",ウェザーニュース JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568351
-#EXTINF:-1 tvg-id="" tvg-name="日本购物 1 JP" tvg-logo="" group-title="Japan",日本购物 1 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568352
-#EXTINF:-1 tvg-id="" tvg-name="日本购物 2 JP" tvg-logo="" group-title="Japan",日本购物 2 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568353
-#EXTINF:-1 tvg-id="" tvg-name="日本购物 3 JP" tvg-logo="" group-title="Japan",日本购物 3 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568354
-#EXTINF:-1 tvg-id="" tvg-name="日本购物 4 JP" tvg-logo="" group-title="Japan",日本购物 4 JP
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/568355
-#EXTINF:-1 tvg-id="" tvg-name="-= China =-" tvg-logo="" group-title="China",-= China =-
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/39878
-#EXTINF:-1 tvg-id="" tvg-name="BLACKBERRY FHD CN" tvg-logo="" group-title="China",BLACKBERRY FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115291
-#EXTINF:-1 tvg-id="" tvg-name="BTV FHD CN" tvg-logo="" group-title="China",BTV FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115290
-#EXTINF:-1 tvg-id="" tvg-name="BTV KAKU FHD CN" tvg-logo="" group-title="China",BTV KAKU FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115289
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 1 FHD CN" tvg-logo="" group-title="China",CCTV 1 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115274
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 2 FHD CN" tvg-logo="" group-title="China",CCTV 2 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115275
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 3 FHD CN" tvg-logo="" group-title="China",CCTV 3 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115276
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4 FHD CN" tvg-logo="" group-title="China",CCTV 4 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115277
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 6 FHD CN" tvg-logo="" group-title="China",CCTV 6 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115278
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 7 FHD CN" tvg-logo="" group-title="China",CCTV 7 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115279
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 8 FHD CN" tvg-logo="" group-title="China",CCTV 8 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115280
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 9 FHD CN" tvg-logo="" group-title="China",CCTV 9 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115281
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 10 FHD CN" tvg-logo="" group-title="China",CCTV 10 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115282
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 11 FHD CN" tvg-logo="" group-title="China",CCTV 11 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115283
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 12 FHD CN" tvg-logo="" group-title="China",CCTV 12 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115284
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 13 FHD CN" tvg-logo="" group-title="China",CCTV 13 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115285
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 14 FHD CN" tvg-logo="" group-title="China",CCTV 14 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115286
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 15 FHD CN" tvg-logo="" group-title="China",CCTV 15 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115287
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 17 FHD CN" tvg-logo="" group-title="China",CCTV 17 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115288
-#EXTINF:-1 tvg-id="" tvg-name="Channel 1 FHD CN" tvg-logo="" group-title="China",Channel 1 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115296
-#EXTINF:-1 tvg-id="" tvg-name="Channel 2 FHD CN" tvg-logo="" group-title="China",Channel 2 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115295
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3 FHD CN" tvg-logo="" group-title="China",Channel 3 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115294
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA", ESPN 2
+http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 FHD CN" tvg-logo="" group-title="China",Channel 5 FHD CN
-http://zzportals.com:2095/nqxcmurmBV/zr4Q5E0dIR/115292
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA", Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA" , Sport 1D
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA", Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+
+
+
+
+===============================================================================================================================================================================
+#EXTINF:-1 tvg-id="IMC" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="SPORTS",RTM Sports
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/146
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
+#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/420
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola 2 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 3 (Live Only)" tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="SPORTS",Arena Bola 3 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 4 (Live Only)" tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="SPORTS",Arena Bola 4 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 1" tvg-logo="https://i.ibb.co/4mPVnHy/1684377315197.png" group-title="SPORTS",NOW Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1077
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 2" tvg-logo="https://i.ibb.co/711T35R/1684377390405.png" group-title="SPORTS",NOW Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1078
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 3" tvg-logo="https://i.ibb.co/BzXYn27/1684377425609.png" group-title="SPORTS",NOW Sport 3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1079
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 4" tvg-logo="https://i.ibb.co/rH7KGqv/1684377457357.png" group-title="SPORTS",NOW Sport 4
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1080
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 5" tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="SPORTS",NOW Sport 5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1081
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",ASSP_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/148
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/149
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_B" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/571
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_A" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/572
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_A" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/249
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/573
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="SPORTS",beIN Sports 1 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="SPORTS",beIN Sports 2 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport (MY)" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORTS",BeIN Sport (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/158
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="SPORTS",BT Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/550
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="SPORTS",BT Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/549
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORTS",Champions 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/157
+#EXTINF:-1 tvg-id="UseeSports" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/241
+#EXTINF:-1 tvg-id="UseeSports2" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/242
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV (MY)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (IDN)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (IDN)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
+#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",Spotv 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/328
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/953
+#EXTINF:-1 tvg-id="Rugby" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="SPORTS",Rugby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/337
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="SPORTS",NBA TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/160
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+============================================================================================================================================================================
+
+
+==============================================================================================================================================================================
+
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 2
+https://edge.taghtia.com/sa/10.m3u8
+
+#EXTINF:-1 http-user-agent=Android
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/mobiletv/glarb.php?
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
+http://www.elahmad.com/tv/m3u8/ad_tv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1 http-user-agent=Android
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/mobiletv/glarb.php?
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
+http://www.elahmad.com/tv/m3u8/ad_tv.m3u8?id=abudhabi_sports1
+
+
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 4" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
+https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 5" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
+https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
+https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC EXTRA 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
+https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
+https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , Sport 1D
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , Espn vivoHD
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/153012
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivo HD1
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18664
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivo SD
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/22331
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivoHD2
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18674
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3ea/master.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 4
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 4 multi
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/master.m3u8
+========================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS", True Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd2.webp" group-title="SPORTS", True Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd3.webp" group-title="SPORTS", True Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd4.webp" group-title="SPORTS", True Premier 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd5.webp" group-title="SPORTS", True Premier 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-1.png",True Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-2.png",True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-3.png",True Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-4.png",True Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-5.png",True Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-6.png",True Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8|referer=https://oneplayer.online/
+#EXTINF:-1 group-title="SPORTS" group-logo="https://tchiphuong.github.io/iptv/images/background/sports.png" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/s-true-sport-7.png",True Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|referer=https://oneplayer.online/
+
+
+
+
+
+
+
+
+================================================================================================================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Movies",HBO Family
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="Movies",HBO Hits
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="Movies",CINEMAX
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="Movies",BOO
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Movies",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTINF:-1 tvg-id="413.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Showcase.png" group-title="Movies",Showcase
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+#EXTINF:-1 tvg-id="121.unifi" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="Movies",SIAR
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Movies",Zee Cinema HD
+https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://static.mncnow.id/images/channel/1cd7e810/7d25.png" group-title="Movies",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-id="TVNAsia.hk" tvg-logo="https://static.mncnow.id/images/channel/eb0dff64/8a8d.png" group-title="Movies",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 tvg-id="Hits.sg" tvg-logo="https://static.mncnow.id/images/channel/b8215b3e/5c5d.png" group-title="Movies",HITS ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-logo="https://static.mncnow.id/images/channel/a4cd7aad/5e83.png" group-title="Movies",HITS Movies ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://static.mncnow.id/images/channel/2b73b3f9/a360.png" group-title="Movies",TVN Movies ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://i.ibb.co/WxDMnJt/channel-13-modified.png" group-title="Movies",Galaxy ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://static.visionplus.id/images/channel/0d4e8c1c/3028.png" group-title="Movies",Galaxy Premium ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://static.mncnow.id/images/channel/b8a82039/b40f.png" group-title="Movies", Celestial Classic Movies ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://static.mncnow.id/images/channel/920951dc/fad9.png" group-title="Movies", Celestial Movies ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://static.mncnow.id/images/channel/23403532/a734.png" group-title="Movies", Thrill ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://static.visionplus.id/images/channel/8ac326e0/55ff.png" group-title="Movies", Cinema World ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://static.visionplus.id/images/channel/744ecff1/e339.png" group-title="Movies", IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-id="AXNindonesia.id" tvg-logo="https://static.mncnow.id/images/channel/631afaf4/b65f.png" group-title="Movies", AXN ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-id="kix.hk" tvg-logo="https://static.mncnow.id/images/channel/7ddc10af/0bfe.png" group-title="Movies",KIX ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-logo="https://static.visionplus.id/images/channel/2917e412/7437.png" group-title="Movies",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://static.mncnow.id/images/channel/34dea2ca/79a3.png" group-title="Movies",My Cinema Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://static.mncnow.id/images/channel/3dc37655/48f5.png" group-title="Movies",My Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://static.mncnow.id/images/channel/e129f16c/7616.png" group-title="Movies",My Family Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:-1 tvg-id="CinemachiHD.id" tvg-logo="https://static.mncnow.id/images/channel/d8025856/ed8f.png" group-title="Movies",Cinemachi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 tvg-id="CinemachiAction.id" tvg-logo="https://static.mncnow.id/images/channel/e778fb49/5fdc.png" group-title="Movies",Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 tvg-id="CinemachiMax.id" tvg-logo="https://static.mncnow.id/images/channel/3ebe64c5/25e6.png" group-title="Movies",Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 tvg-id="CinemachiXtra.id" tvg-logo="https://static.mncnow.id/images/channel/d0411bf2/d495.png" group-title="Movies",Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-id="CinemachiKids.id" tvg-logo="https://static.mncnow.id/images/channel/797a60f7/9b08.png" group-title="Movies",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 tvg-id="rockentertainment.sg" tvg-logo="https://static.mncnow.id/images/channel/3d2f505f/c6dd.png" group-title="Movies",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 
 
