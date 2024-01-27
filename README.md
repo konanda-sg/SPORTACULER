@@ -363,9 +363,10 @@ http://mohdtv.com:8880/hdtv0405dd978bc9/61704395/29268
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/zZDFNPg/download-72.jpg" group-title="LIVE EVENT" tvg-id="001" tvg-name="016-LABURATV,02.45-Milan vs Bologna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51b4e7440c544bb6ba1a469fe3aec60a:9f2cbbde72b48306b6942ca4ca85b5c3
+https://cdnjt24.useetv.com/drm/live/smil:bein2.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -384,9 +385,11 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298719
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 http://14560544302727505.ofd0107.xyz:80/play/birah812L/birahM62/727505.ts
