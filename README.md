@@ -9,19 +9,27 @@ https://drm-wc-2-vidio-com.akamaized.net/out/v1/1694b2f77c404c3fa3cb40a8c7a85201
 
 =================================================================================================================================
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="🇮🇩 NASIONAL 🇮🇩",TRANS 7
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNCTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 #EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
