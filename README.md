@@ -310,7 +310,6 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
- 
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
  
@@ -363,7 +362,6 @@ http://mohdtv.com:8880/hdtv0405dd978bc9/61704395/29268
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 2
-#EXTINF:0 tvg-logo="https://i.ibb.co/zZDFNPg/download-72.jpg" group-title="LIVE EVENT" tvg-id="001" tvg-name="016-LABURATV,02.45-Milan vs Bologna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51b4e7440c544bb6ba1a469fe3aec60a:9f2cbbde72b48306b6942ca4ca85b5c3
 https://cdnjt24.useetv.com/drm/live/smil:bein2.smil/manifest.mpd
