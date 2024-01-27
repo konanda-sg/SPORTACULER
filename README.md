@@ -131,8 +131,7 @@ http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
 https://nonton.site:8443/live/ekos/7483/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-#EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="🇮🇩 NASIONAL 🇮🇩", TATV Solo
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 =================================================================================================================================
