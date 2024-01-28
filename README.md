@@ -536,6 +536,32 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773
 #EXTINF:-1 group-title="⬇️SPORT⬇️" tvg-id="useesports2.id" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
 
+#EXTINF:-1 group-title="⬇️SPORT⬇️",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+      
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="⬇️SPORT⬇️",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="⬇️SPORT⬇️",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 HD
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 group-title="⬇️SPORT⬇️",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png", Astro SuperSport 4 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="⬇️SPORT⬇️",ASSP 1
 https://link.zozotv.xyz:443/rozila969/abc12345/155
  
