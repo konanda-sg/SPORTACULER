@@ -373,8 +373,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51b4e7440c544bb6ba1a469fe3aec60a:9f2cbbde72b48306b6942ca4ca85b5c3
 https://cdnjt24.useetv.com/drm/live/smil:bein2.smil/manifest.mpd
- 
+
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 3
+http://aflaxtv.xyz:8080/multi6490/15ff0190/79220
+
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 4
+http://aflaxtv.xyz:8080/multi6490/15ff0190/39497
+ 
+#EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
@@ -828,6 +834,22 @@ https://webudit.hlsjs.ru/lb/premium593/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium594/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="⬇️SPORT⬇️",DAZN 1
+http://aflaxtv.xyz:8080/multi6490/15ff0190/48355
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6701b2c9af26d19ca02e675ec00c13d4.png" group-title="⬇️SPORT⬇️",DAZN 2
+http://aflaxtv.xyz:8080/multi6490/15ff0190/2387
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/40da4317502840a4f3a4529ed977ae5c.png" group-title="⬇️SPORT⬇️",Edge Sport
+http://aflaxtv.xyz:8080/multi6490/15ff0190/281610
+#EXTINF:-1 tvg-id="" tvg-name="ESports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/802a470fd937909055188df041e923ac.png" group-title="⬇️SPORT⬇️",ESports 1
+http://aflaxtv.xyz:8080/multi6490/15ff0190/14357
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5cfaf6528fef14945280363aaf81efcf.png" group-title="⬇️SPORT⬇️",Eurosport 1
+http://aflaxtv.xyz:8080/multi6490/15ff0190/412
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="⬇️SPORT⬇️",Eurosport 2
+http://aflaxtv.xyz:8080/multi6490/15ff0190/2082
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c033228e650924accbb0c9299a504ba8.png" group-title="⬇️SPORT⬇️",Magenta Sport 1
+http://aflaxtv.xyz:8080/multi6490/15ff0190/290686
+
+
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⬇️SPORT⬇️", nova sport
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⬇️SPORT⬇️", sky sport
@@ -954,6 +976,18 @@ https://link.zozotv.xyz:443/rozila969/abc12345/134
 https://link.zozotv.xyz:443/rozila969/abc12345/135
 #EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="👽 KIDS👽 ",BabyFirst
 https://link.zozotv.xyz:443/rozila969/abc12345/141
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="👽 KIDS👽 ",Disney Channel
+http://aflaxtv.xyz:8080/multi6490/15ff0190/165075
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="👽 KIDS👽 ",Disney Junior
+http://aflaxtv.xyz:8080/multi6490/15ff0190/162511
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="👽 KIDS👽 ",Disney XD
+http://aflaxtv.xyz:8080/multi6490/15ff0190/276564
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="👽 KIDS👽 ",DreamWorks
+http://aflaxtv.xyz:8080/multi6490/15ff0190/157610
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="👽 KIDS👽 ",Dunia Anak
+http://aflaxtv.xyz:8080/multi6490/15ff0190/264753
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="👽 KIDS👽 ",Cbeebies
 https://link.zozotv.xyz:443/rozila969/abc12345/273
@@ -963,6 +997,31 @@ https://link.zozotv.xyz:443/rozila969/abc12345/694
 https://link.zozotv.xyz:443/rozila969/abc12345/69
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/cDJYGmg/yiuy.png" group-title="👽 KIDS👽 ",Aniplus
 https://link.zozotv.xyz:443/rozila969/abc12345/70
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4e6fb769f0d5c77677d7913c75377044.png" group-title="👽 KIDS👽 ",Baby TV
+http://aflaxtv.xyz:8080/multi6490/15ff0190/31824
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8b0bdcd750142bc54929eeaa30e896e4.jpg" group-title="👽 KIDS👽 ",Boing
+http://aflaxtv.xyz:8080/multi6490/15ff0190/966
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae8686643287877d73369cf9257e066a.png" group-title="👽 KIDS👽 ",Cartoon Network
+http://aflaxtv.xyz:8080/multi6490/15ff0190/9567
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/592daf9d882f1fcb84bf8c072e9e463d.png" group-title="👽 KIDS👽 ",Cartoonito
+http://aflaxtv.xyz:8080/multi6490/15ff0190/975
+#EXTINF:-1 tvg-id="" tvg-name="Disney junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/fb50a384f85db6919c67afb48373edb4.png" group-title="👽 KIDS👽 ",Disney junior
+http://aflaxtv.xyz:8080/multi6490/15ff0190/1988
+
+#EXTINF:-1 tvg-id="" tvg-name="Frisbee" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/85cf457c27a8043633909e8c38d08527.png" group-title="👽 KIDS👽 ",Frisbee
+http://aflaxtv.xyz:8080/multi6490/15ff0190/2003
+#EXTINF:-1 tvg-id="" tvg-name="K2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/c7cac8a4959f5ad2ee1097c047c94f61.png" group-title="👽 KIDS👽 "",K2
+http://aflaxtv.xyz:8080/multi6490/15ff0190/8158
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/a6a4a28d9a8eb7f6231181ac3c9a7932.jpg" group-title="👽 KIDS👽 ",Nick Jr
+http://aflaxtv.xyz:8080/multi6490/15ff0190/3594
+
+#EXTINF:-1 tvg-id="" tvg-name="Rai Gulp" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ccf258996cb23590191ae1acbb2fac5d.png" group-title="👽 KIDS👽 ",Rai Gulp
+http://aflaxtv.xyz:8080/multi6490/15ff0190/903
+#EXTINF:-1 tvg-id="" tvg-name="Rai Yoyo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0f1a3d86616443587c26cca3f7d0d719.png" group-title="👽 KIDS👽 ",Rai Yoyo
+http://aflaxtv.xyz:8080/multi6490/15ff0190/907
+#EXTINF:-1 tvg-id="" tvg-name="Super!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/ff1deb36585128d6531bca0da373f3cf.png" group-title="👽 KIDS👽 ",Super!
+http://aflaxtv.xyz:8080/multi6490/15ff0190/297042
 
 
 
