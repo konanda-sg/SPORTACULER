@@ -574,32 +574,35 @@ https://link.zozotv.xyz:443/rozila969/abc12345/792
 #EXTINF:-1 tvg-id="Arena2" tvg-name="SUKAN RTM" tvg-logo="https://i.ibb.co/8jVDBcX/iyu.png" group-title="⬇️SPORT⬇️",SUKAN RTM
 https://link.zozotv.xyz:443/rozila969/abc12345/153
 
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX" tvg-logo="https://docdog.top/logo/countries/india/sony-six-hd-in.png" group-title="⬇️SPORT⬇️", SONY SIX
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/7320
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4QW3Qqn/sony1.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 1
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/sony-ten-1-in.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 1
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156017&extension=ts&play_token=1R0IiyGd6h
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xtzKSZS/sony2.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/sony-ten-2-in.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156010&extension=ts&play_token=JF4iBmMrpl
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13V36qYK/sony3.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 3
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/sony-ten-3-in.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156024&extension=ts&play_token=fmZmC2ijLp
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYfV1t7Q/sony4.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 4
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114579&extension=ts&play_token=8g2eklNoRz
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjsFCqwM/sss1.png" group-title="⬇️SPORT⬇️", Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="⬇️SPORT⬇️", Star Sports Select 1
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4jQ0sNv/sss2.png" group-title="⬇️SPORT⬇️", Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="⬇️SPORT⬇️", Star Sports Select 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114584&extension=ts&play_token=F3F69ufJDw
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd7KGsQ8/ss1.png" group-title="⬇️SPORT⬇️", Star Sports 1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-1-in.png" group-title="⬇️SPORT⬇️", Star Sports 1
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=155968&extension=ts&play_token=sf5sNQxbrB
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYSmhtsp/ss2.png" group-title="⬇️SPORT⬇️", Star Sports 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-2-in.png" group-title="⬇️SPORT⬇️", Star Sports 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114581&extension=ts&play_token=SwWS8kMgbT
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2n4kL0Y/ss3.png" group-title="⬇️SPORT⬇️", Star Sports 3
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-3-in.png" group-title="⬇️SPORT⬇️", Star Sports 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=155976&extension=ts&play_token=YePykpswJv
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="⬇️SPORT⬇️" group-logo="https://i.postimg.cc/pdJ0KJ45/PT.png"",SPORT TV 1 
@@ -632,21 +635,44 @@ https://webudit.hlsjs.ru/lb/premium290/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium291/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/elevensports1vip.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 1
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/3120
-#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/elevensport2.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 2
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/3121
-#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/elevensports3vip.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 3
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/3122
 
+#EXTINF:-1 tvg-id="" tvg-name="CA: WWE" tvg-logo="https://asiagrandiptv.us/logo/wwe.png" group-title="⬇️SPORT⬇️", WWE
+http://14560544302756990.ofd0107.xyz:80/play/birah812L/birahM62/756990.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP UFC CHANNEL" tvg-logo="https://docdog.top/logo/countries/us/ufctv.png" group-title="⬇️SPORT⬇️", UFC CHANNEL
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/5548
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBA TV" tvg-logo="https://docdog.top/logo/countries/us/nba.png" group-title="⬇️SPORT⬇️", NBA TV
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/6196
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS" tvg-logo="https://docdog.top/logo/countries/italy/super-tennis-it.png" group-title="⬇️SPORT⬇️",SUPER TENNIS
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1196
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-24-it.png" group-title="⬇️SPORT⬇️", SKY SPORT 24
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1058
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-f1-it.png" group-title="⬇️SPORT⬇️", SKY SPORT F1
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1060
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-uno-it.png" group-title="⬇️SPORT⬇️",SKY SPORT UNO
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1057
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png" group-title="⬇️SPORT⬇️", SKY SPORT MOTOGP
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1053
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png" group-title="⬇️SPORT⬇️", SKY SPORT NBA
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1052
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png" group-title="⬇️SPORT⬇️", SKY SPORT ARENA
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1061
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png" group-title="⬇️SPORT⬇️",SKY SPORT TENNIS
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1191
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT FOOTBALL" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-football-it.png" group-title="⬇️SPORT⬇️", SKY SPORT FOOTBALL
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1059
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT GOLF" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Golf.png" group-title="⬇️SPORT⬇️",IT: SKY SPORT GOLF
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1055
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-calcio-it.png" group-title="⬇️SPORT⬇️", SKY SPORT CALCIO
+http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1054
 
 
 
