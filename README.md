@@ -235,6 +235,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTINF:-1 tvg-chno="" tvg-id="SUN.th" tvg-name="SUN" tvg-logo="https://i.imgur.com/NWuip1G.png" group-title="🍿 MOVIES🍿 ",SUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="🍿 MOVIES🍿 ",CinemaWorld
+https://link.zozotv.xyz:443/rozila969/abc12345/111
+#EXTINF:-1 tvg-id="Arena2" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="🍿 MOVIES🍿 ",&Prive HD
+https://link.zozotv.xyz:443/rozila969/abc12345/105
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="🍿 MOVIES🍿 ",&Flix HD
+https://link.zozotv.xyz:443/rozila969/abc12345/104
+#EXTINF:-1 tvg-id="IMC" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="🍿 MOVIES🍿 ",Sony PIX
+https://link.zozotv.xyz:443/rozila969/abc12345/298
  
 #EXTINF:-1 tvg-chno="" tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://i.imgur.com/SYOqA7z.png" group-title="🍿 MOVIES🍿 ",SAMURAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -401,22 +410,7 @@ https://srtv.my.id/vd/play.m3u8?id=6685&type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",Champ TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://srtv.my.id/vd/play.mpd?id=6685&type=hls
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",Champ TV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-https://srtv.my.id/vd/play.mpd?id=6686&type=hls
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",Champ TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
-https://srtv.my.id/vd/play.mpd?id=6786&type=dashDIPROP:inputstream.adaptive.manifest_type=hls
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",DIGISPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
@@ -666,12 +660,103 @@ http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1055
 #EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-calcio-it.png" group-title="⬇️SPORT⬇️", SKY SPORT CALCIO
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1054
 
+=================================================================================================================================
 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="🔹 KNOWLEDGE🔹 ", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="🔹 KNOWLEDGE🔹 ", Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ", XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="🔹 KNOWLEDGE🔹 ", INSIGHT
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAixj-Cg_3Ad8xIAuW9jN5ztcFrssfJasgQ&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ", Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0AD-p4XtRJvvI8dUL2eMkVIqf4oFybVp0A&usqp=CAU" group-title="🔹 KNOWLEDGE🔹 ", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="🔹 KNOWLEDGE🔹 ", Animal Planet
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="🔹 KNOWLEDGE🔹 ", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="🔹 KNOWLEDGE🔹 ", Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+ 
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="🔹 KNOWLEDGE🔹 ", Discovery Channel
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryHD.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="🔹 KNOWLEDGE🔹 ", Discovery Turbo
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="🔹 KNOWLEDGE🔹 ", Discovery Science
+https://raw.githubusercontent.com/sefatdsi/dth/main/DiscoveryScience.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic Wild
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="🔹 KNOWLEDGE🔹 ", National Geographic Wild
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/Y37JzVV/fcd.png" group-title="🔹 KNOWLEDGE🔹 ",Discovery Channel
+https://link.zozotv.xyz:443/rozila969/abc12345/124
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/MCNzx28/HFFD.png" group-title="🔹 KNOWLEDGE🔹 ",Discovery Asia
+https://link.zozotv.xyz:443/rozila969/abc12345/125
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/R349X0T/hv.png" group-title="🔹 KNOWLEDGE🔹 ",Animal Planet
+https://link.zozotv.xyz:443/rozila969/abc12345/123
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="🔹 KNOWLEDGE🔹 ",Love Nature
+https://link.zozotv.xyz:443/rozila969/abc12345/116
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="🔹 KNOWLEDGE🔹 ",BBC Earth
+https://link.zozotv.xyz:443/rozila969/abc12345/117
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="🔹 KNOWLEDGE🔹 ",DMAX
+https://link.zozotv.xyz:443/rozila969/abc12345/118
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="🔹 KNOWLEDGE🔹 ",History
+https://link.zozotv.xyz:443/rozila969/abc12345/119
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7RPffnd/sjt.png" group-title="🔹 KNOWLEDGE🔹 ",AFC
+https://link.zozotv.xyz:443/rozila969/abc12345/127
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/X5vKy5T/SCX.png" group-title="🔹 KNOWLEDGE🔹 ",TLC
+https://link.zozotv.xyz:443/rozila969/abc12345/128
 
+==============================================================================================================================
 
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (INDO)" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="👽 KIDS👽 ",Cartoon Network 
+https://link.zozotv.xyz:443/rozila969/abc12345/342
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="👽 KIDS👽 ",Cartoon Network
+https://link.zozotv.xyz:443/rozila969/abc12345/132
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon (INDO)" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="👽 KIDS👽 ",Nickelodeon 
+https://link.zozotv.xyz:443/rozila969/abc12345/344
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="👽 KIDS👽 ",Nickelodeon
+https://link.zozotv.xyz:443/rozila969/abc12345/136
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (INDO)" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="👽 KIDS👽 ",Nick Jr 
+https://link.zozotv.xyz:443/rozila969/abc12345/343
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="👽 KIDS👽 ",Nick Jr
+https://link.zozotv.xyz:443/rozila969/abc12345/137
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks (INDO)" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="👽 KIDS👽 ",Dreamworks 
+https://link.zozotv.xyz:443/rozila969/abc12345/350
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="👽 KIDS👽 ",Dreamworks
+https://link.zozotv.xyz:443/rozila969/abc12345/134
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="👽 KIDS👽 ",Boomerang
+https://link.zozotv.xyz:443/rozila969/abc12345/135
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/37ngmzn/bbbbbbbb.png" group-title="👽 KIDS👽 ",BabyFirst
+https://link.zozotv.xyz:443/rozila969/abc12345/141
 
 
 
