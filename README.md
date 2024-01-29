@@ -381,9 +381,7 @@ http://aflaxtv.xyz:8080/multi6490/15ff0190/79220
 http://aflaxtv.xyz:8080/multi6490/15ff0190/39497
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4126c14ea8e841bb91745cd9323a1244:f841392e924641e73079b388a096903e
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/65677
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/144
@@ -599,35 +597,31 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1114581&
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/star-sports-3-in.png" group-title="⬇️SPORT⬇️", Star Sports 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=155976&extension=ts&play_token=YePykpswJv
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV1 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="⬇️SPORT⬇️" group-logo="https://i.postimg.cc/pdJ0KJ45/PT.png"",SPORT TV 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium49/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports1.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 1 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79167
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports1.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 1 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79168
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports2.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 2 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79169
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports2.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 2 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79170
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports3.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 3 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79171
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports3.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 3 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79172
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports4.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 4 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79173
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports4.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 4 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79174
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports5.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 5 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79175
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports5.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 5 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79176
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports6.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 6
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79177
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports6.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 6 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79178
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV2 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="⬇️SPORT⬇️",SPORT TV 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium74/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="⬇️SPORT⬇️",SPORT TV 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium454/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="⬇️SPORT⬇️",SPORT TV 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium289/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV5 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="⬇️SPORT⬇️",SPORT TV 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium290/index.m3u8
-
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV6 FHD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="⬇️SPORT⬇️",SPORT TV 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium291/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 1
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/3120
@@ -703,22 +697,32 @@ https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000107_019441/manifest.
 #KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
 https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 1" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport1.png" group-title="⬇️SPORT⬇️", ARENA SPORT 1
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/2991
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 2" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport2.png" group-title="⬇️SPORT⬇️", ARENA SPORT 2
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/2992
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 3" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport3.png" group-title="⬇️SPORT⬇️", ARENA SPORT 3
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/2993
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 4" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport4.png" group-title="⬇️SPORT⬇️",ARENA SPORT 4
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/2994
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 5" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport5.png" group-title="⬇️SPORT⬇️", ARENA SPORT 5
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/2995
-#EXTINF:-1 tvg-id="" tvg-name="CRO: ARENA SPORT 6" tvg-logo="https://docdog.top/logo/countries/croatia/arenasport6.png" group-title="⬇️SPORT⬇️" ARENA SPORT 6
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/2996
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv1.png" group-title="⬇️SPORT⬇️",SPORT TV 1 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79151
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv1.png" group-title="⬇️SPORT⬇️",SPORT TV 1 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79152
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv2.png" group-title="⬇️SPORT⬇️",SPORT TV 2 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79153
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv2.png" group-title="⬇️SPORT⬇️",SPORT TV 2 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79154
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv3.png" group-title="⬇️SPORT⬇️",SPORT TV 3 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79155
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv3.png" group-title="⬇️SPORT⬇️",SPORT TV 3 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79156
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv4.png" group-title="⬇️SPORT⬇️",SPORT TV 4 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79157
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv4.png" group-title="⬇️SPORT⬇️",SPORT TV 4 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79158
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv5.png" group-title="⬇️SPORT⬇️",SPORT TV 5 ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79159
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv5.png" group-title="⬇️SPORT⬇️",SPORT TV 5 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79160
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/sporttv6.png" group-title="⬇️SPORT⬇️",SPORT TV 6 HD ✠
+http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79161
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTINF:-1 tvg-chno="205" tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="⬇️SPORT⬇️" , ESPN
+#EXTINF:-1 tvg-chno="205" tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="⬇️SPORT⬇️",ESPN
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -802,14 +806,18 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjw6K6CT/hubsports3.png" group-title="⬇️SPORT⬇️", HUB Sports 3
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="⬇️SPORT⬇️", HUB Sports 1
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="⬇️SPORT⬇️", HUB Sports 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=giWRao7Fwn
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="⬇️SPORT⬇️", HUB Sports 1
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjw6K6CT/hubsports3.png" group-title="⬇️SPORT⬇️", HUB Sports 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=EweK9cqCFa
+
+
+
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport3.nz" tvg-name="NZ: SKY SPORT 3 FHD" tvg-logo="https://i.postimg.cc/J4QfDS8v/Sky-Sport-NZ3.png" group-title="⬇️SPORT⬇️", Sky Sport 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
