@@ -637,28 +637,7 @@ http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/5548
 #EXTINF:-1 tvg-id="" tvg-name="USA: VIP NBA TV" tvg-logo="https://docdog.top/logo/countries/us/nba.png" group-title="⬇️SPORT⬇️", NBA TV
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/6196
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS" tvg-logo="https://docdog.top/logo/countries/italy/super-tennis-it.png" group-title="⬇️SPORT⬇️",SUPER TENNIS
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1196
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-24-it.png" group-title="⬇️SPORT⬇️", SKY SPORT 24
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1058
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-f1-it.png" group-title="⬇️SPORT⬇️", SKY SPORT F1
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1060
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-uno-it.png" group-title="⬇️SPORT⬇️",SKY SPORT UNO
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1057
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT MOTOGP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-motogp-it.png" group-title="⬇️SPORT⬇️", SKY SPORT MOTOGP
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1053
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png" group-title="⬇️SPORT⬇️", SKY SPORT NBA
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1052
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png" group-title="⬇️SPORT⬇️", SKY SPORT ARENA
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1061
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT TENNIS" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png" group-title="⬇️SPORT⬇️",SKY SPORT TENNIS
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1191
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT FOOTBALL" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-football-it.png" group-title="⬇️SPORT⬇️", SKY SPORT FOOTBALL
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1059
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT GOLF" tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Golf.png" group-title="⬇️SPORT⬇️",IT: SKY SPORT GOLF
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1055
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-calcio-it.png" group-title="⬇️SPORT⬇️", SKY SPORT CALCIO
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/1054
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="⬇️SPORT⬇️" , ZIGGO SPORT VOETBAL
 #EXTVLCOPT:network-caching=1000
@@ -817,30 +796,6 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&
 
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport3.nz" tvg-name="NZ: SKY SPORT 3 FHD" tvg-logo="https://i.postimg.cc/J4QfDS8v/Sky-Sport-NZ3.png" group-title="⬇️SPORT⬇️", Sky Sport 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium590/index.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport4.nz" tvg-name="NZ: SKY SPORT 4 FHD" tvg-logo="https://i.postimg.cc/xjhNzFff/Sky-Sport-NZ4.png" group-title="⬇️SPORT⬇️", Sky Sport 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium591/index.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport5.nz" tvg-name="NZ: SKY SPORT 5 FHD" tvg-logo="https://i.postimg.cc/P5DTL26w/Sky-Sport-NZ5.png" group-title="⬇️SPORT⬇️", Sky Sport 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium592/index.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport6.nz" tvg-name="NZ: SKY SPORT 6 FHD" tvg-logo="https://i.postimg.cc/QdcVL8Zw/Sky-Sport-NZ6.png" group-title="⬇️SPORT⬇️", Sky Sport 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium593/index.m3u8
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport7.nz" tvg-name="NZ: SKY SPORT 7 FHD" tvg-logo="https://i.postimg.cc/sx9QY3ft/Sky-Sport-NZ7.png" group-title="⬇️SPORT⬇️",Sky Sport 7 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium594/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f9a0cbb607241486dbf9c331fa0bc048.png" group-title="⬇️SPORT⬇️",DAZN 1
 http://aflaxtv.xyz:8080/multi6490/15ff0190/48355
