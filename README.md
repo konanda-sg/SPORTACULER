@@ -620,6 +620,28 @@ http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79177
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD ✠" tvg-logo="http://rrlogos.ptwo.ch/Picon/PT/elevensports6.png" group-title="⬇️SPORT⬇️",ELEVEN SPORTS 6 HD ✠
 http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79178
 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 1 Premier
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 2
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 3
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 4 Tennis
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 5
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 6 Tennis
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
+ 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/ki6m4r7btvbha3z/Now%20Sports.jpeg" group-title="⬇️SPORT⬇️", NOWSPORTS 7
+#http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="⬇️SPORT⬇️", ELEVEN SPORT 1
 http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/3120
