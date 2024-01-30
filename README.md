@@ -1,10 +1,5 @@
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="🇮🇩FRENDLY MATCH 🇮🇩",INDONESIA VS UZBEKISTAN
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff9e5fa8162883cf6d3095ea91f9b284:e9237daae16919ca840459396c6fc465
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdntl=exp=1706703394~acl=%2f*~id=145248617~data=hdntl~hmac=98c4cf0bdd0ce62bb5e651c4784b5c82961497e874664ddf14ba61aa81389796
+
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
