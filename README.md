@@ -390,12 +390,10 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/144
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298719
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="👉LIGA EROPA👈" ,LIGA PRANCIS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
- 
+http://14560544302312685.ofd0107.xyz:80/play/birah812L/birahM62/312685.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/99415
+http://14560544302662327.ofd0107.xyz:80/play/birah812L/birahM62/662327.ts
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="👉LIGA EROPA👈" , BUNDES LIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
