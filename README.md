@@ -428,6 +428,16 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
+====================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="🏀BASKET🏀",NBA TV Canada
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/13222
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="🏀BASKET🏀",NBA TV
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298558
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="🏀BASKET🏀",Sky Sport NBA
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1047
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="🏀BASKET🏀",SPORT TV NBA
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/2051
+
 =======================================================================================================
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title=" ❤️BeIN Sports ❤️",BeIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
