@@ -429,6 +429,13 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 ====================================================================================================================================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="🏀BASKET🏀",NBA TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
+https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master_stereo.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="🏀BASKET🏀",NBA TV Canada
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/13222
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="🏀BASKET🏀",NBA TV
