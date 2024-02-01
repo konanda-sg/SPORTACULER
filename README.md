@@ -370,7 +370,7 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625248&extension=
  
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA 1
-http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79834
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159894
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
 http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79836
