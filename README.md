@@ -143,17 +143,21 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 =================================================================================================================================
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="🍿 MOVIES🍿 ",HBO (ID)
 https://link.zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="🍿 MOVIES🍿 ",HBO
+http://103.113.116.150:25461/mtm1/12345/16
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="🍿 MOVIES🍿 ",HBO Hits
 https://link.zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="🍿 MOVIES🍿 ",HBO Hits hd
+http://103.113.116.150:25461/mtm1/12345/17
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="🍿 MOVIES🍿 ",HBO Family
 https://link.zozotv.xyz:443/rozila969/abc12345/98
- 
- 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="🍿 MOVIES🍿 ",HBO Family hd 
+http://103.113.116.150:25461/mtm1/12345/19 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="🍿 MOVIES🍿 ",HBO Signature
 https://link.zozotv.xyz:443/rozila969/abc12345/99
- 
- 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="🍿 MOVIES🍿 ",Cinemax hd 
+http://103.113.116.150:25461/mtm1/12345/20 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="🍿 MOVIES🍿 ",Cinemax
 https://link.zozotv.xyz:443/rozila969/abc12345/107
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://i.postimg.cc/HWJZ376z/download-70.png" group-logo="https://i.postimg.cc/mkkXFD8L/download-40.png" group-title="🍿 MOVIES🍿 ", ViuTV 
@@ -330,6 +334,8 @@ https://link.zozotv.xyz:443/Rina923/390023/45
 
 
 ===========================================================================================================
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​
+http://103.113.116.150:25461/mtm1/12345/54
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
