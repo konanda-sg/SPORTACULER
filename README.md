@@ -1,14 +1,14 @@
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT AVA MAX https://www.dropbox.com/scl/fi/p6erl39fu4j3gkwlo2ml5/Alan-Walker-Ava-Max-Alone-Pt-II_720p.mp4?rlkey=mpwk58l3uulolaksbxwopntji&dl=1
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="YOUTUBE" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT AVA MAX https://www.dropbox.com/scl/fi/p6erl39fu4j3gkwlo2ml5/Alan-Walker-Ava-Max-Alone-Pt-II_720p.mp4?rlkey=mpwk58l3uulolaksbxwopntji&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT EMMA 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="YOUTUBE" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT EMMA 
 https://www.dropbox.com/scl/fi/22zuqn3x0te2mpzrscy9m/Alan-Walker-x-Emma-Steinbakken-Not-You-Live-Performance_1080p.mp4?rlkey=l2o369n0zbiliy0ruin56nevw&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SATU RASA CINTA 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="YOUTUBE" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SATU RASA CINTA 
 https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SIA SIA MENGHARAP CINTAMU https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=fuf2rfnce1ex3ew4pew9y5ly1&dl=1
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="YOUTUBE" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SIA SIA MENGHARAP CINTAMU https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=fuf2rfnce1ex3ew4pew9y5ly1&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/mHMWqqg/Logo-You-Tube.png" group-title="✅ YOUTUBE✅",SANTRI PEKOK 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="YOUTUBE" tvg-logo="https://i.ibb.co/mHMWqqg/Logo-You-Tube.png" group-title="✅ YOUTUBE✅",SANTRI PEKOK 
 https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
 
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",Soccer Channel
@@ -394,7 +394,7 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=625248&extension=
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159894
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈"​,LA LIGA 2
-http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79836
+http://103.113.116.150:25461/mtm1/12345/57
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="👉LIGA EROPA👈",LA LIGA 3
 http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79840
@@ -408,9 +408,7 @@ http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/79842
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
  
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51b4e7440c544bb6ba1a469fe3aec60a:9f2cbbde72b48306b6942ca4ca85b5c3
-https://cdnjt24.useetv.com/drm/live/smil:bein2.smil/manifest.mpd
+http://103.113.116.150:25461/mtm1/12345/56
 
 #EXTINF:-1 tvg-id="" tvg-name="IT:  SKY CALCIO 1 HD" tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="👉LIGA EROPA👈",LIGA ITALY 3
 http://aflaxtv.xyz:8080/multi6490/15ff0190/79220
