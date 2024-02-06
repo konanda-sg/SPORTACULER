@@ -1,12 +1,15 @@
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT AVA MAX https://www.dropbox.com/scl/fi/p6erl39fu4j3gkwlo2ml5/Alan-Walker-Ava-Max-Alone-Pt-II_720p.mp4?rlkey=mpwk58l3uulolaksbxwopntji&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT EMMA https://www.dropbox.com/scl/fi/22zuqn3x0te2mpzrscy9m/Alan-Walker-x-Emma-Steinbakken-Not-You-Live-Performance_1080p.mp4?rlkey=l2o369n0zbiliy0ruin56nevw&dl=1
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",ALAN WALKER FT EMMA 
+https://www.dropbox.com/scl/fi/22zuqn3x0te2mpzrscy9m/Alan-Walker-x-Emma-Steinbakken-Not-You-Live-Performance_1080p.mp4?rlkey=l2o369n0zbiliy0ruin56nevw&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SATU RASA CINTA https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SATU RASA CINTA 
+https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/88w6khC/youtube.gif" group-title="✅ YOUTUBE✅",SIA SIA MENGHARAP CINTAMU https://www.dropbox.com/scl/fi/xnnm5sa5fpicjg2qfku42/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=fuf2rfnce1ex3ew4pew9y5ly1&dl=1
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/mHMWqqg/Logo-You-Tube.png" group-title="✅ YOUTUBE✅",SANTRI PEKOK https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/mHMWqqg/Logo-You-Tube.png" group-title="✅ YOUTUBE✅",SANTRI PEKOK 
+https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
 
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -334,9 +337,9 @@ https://link.zozotv.xyz:443/Rina923/390023/45
 
 
 ===========================================================================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​
 http://103.113.116.150:25461/mtm1/12345/54
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -344,32 +347,31 @@ http://103.113.116.150:25461/mtm1/12345/54
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm
 https://srtv.my.id/vd/play.mpd?id=9182&type=dash
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm
 https://srtv.my.id/vd/play.mpd?id=9183&type=dash
- 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 4
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 5
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 5
 http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈", PREMIER LEAGUE​ 6
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 6
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 7
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 7
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 8
+#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE 8
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60799
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 9
