@@ -986,6 +986,7 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 ====================================================================================================================================================
+
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 01
 http://ourlink.vip:7777/ARJ11/CBWUDTS/111867
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-id="dazn3spain.es" tvg-logo="https://i.ibb.co/WzSVKmb/bein-sport-logo.png",beIN Sports 02
