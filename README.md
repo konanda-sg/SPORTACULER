@@ -1652,7 +1652,52 @@ http://aflaxtv.xyz:8080/multi6490/15ff0190/907
 http://aflaxtv.xyz:8080/multi6490/15ff0190/297042
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="" group-title="DAZN SPORT",ZONA DAZN FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63984
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 1 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63988
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 2 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63991
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 3 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63994
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 4 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63997
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 5 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64000
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 6 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64003
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 7 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64006
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 8 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64009
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 9 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64012
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 FHD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64015
+#EXTINF:-1 tvg-id="" tvg-name="==== Dazn SERIE A  SD ====" tvg-logo="" group-title="DAZN SPORT",==== Dazn SERIE A  SD ====
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/60991
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN h265" tvg-logo="" group-title="DAZN SPORT",ZONA DAZN h265
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63986
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 1 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63990
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 2 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63993
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 3 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63996
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 4 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64101
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 5 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64002
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 6 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64005
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 7 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64008
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 8 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64011
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 9 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64014
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 SD
+http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64017
 
 
 
