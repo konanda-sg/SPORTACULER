@@ -1098,7 +1098,20 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773
  
 #EXTINF:-1 group-title="⬇️SPORT⬇️" tvg-id="useesports2.id" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORTS 1 4K" tvg-logo="" group-title="⬇️SPORT⬇️", ASTRO SUPERSPORTS 1 4K
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828100
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORTS 2 4K" tvg-logo="" group-title="⬇️SPORT⬇️" ASTRO SUPERSPORTS 2 4K
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828099
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 1 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828098
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 2 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828097
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 3 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828096
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️",ASTRO SPORTS 4 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828095
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 5 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828094
 
 
 
