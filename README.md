@@ -837,14 +837,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
 ==================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI borneo vs bfc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/exp=1708967186~acl=/hls-p/ingest_205_*/*~hmac=026ae9da5661e3da4717eeff3e7d456c412b7bfc72bf22858290525a79ada13e/hls-p/ingest_205_720p/index.m3u8
 
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://etslive-2-vidio-com.akamaized.net/exp=1708966635~acl=/hls-p/ingest_13797_*/*~hmac=fbb6ccce8a2eadd6b91bfd3f8eec24577ac7a4cced79d7de0427e3ced9c8cd50/hls-p/ingest_13797_720p/index.m3u8
 
 
 logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",LIGA BRI 1 
@@ -859,8 +852,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",LIGA BRI 3
-https://link.zozotv.xyz:443/Rina923/390023/45
+
 
 
 
