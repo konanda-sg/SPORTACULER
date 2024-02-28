@@ -1786,11 +1786,63 @@ http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64014
 http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64017
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 01" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 01
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827969
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 02" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 02
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827968
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 03" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 03
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827967
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 04" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 04
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827966
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 05" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 05
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827965
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 06" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 06
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827964
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 07" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 07
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827963
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 08" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 08
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827962
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 09" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 09
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827961
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 10" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 10
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827960
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 11" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 11
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827959
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 12" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 12
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827958
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 13" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 13
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827957
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 14" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 14
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827956
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 15" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 15
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827955
 
+===================================================================================================================================================================
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 1 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828068
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 2 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828067
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 3 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828066
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 4 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828065
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 5 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828064
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 6 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828063
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️",OPTUS 7 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828062
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 8 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828061
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 9 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828060
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 10 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828059
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 11 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 11 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828058
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 12 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 12 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828057
 
 
 
