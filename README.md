@@ -837,10 +837,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
 ==================================================================================================================================================================
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",lIGA BRI
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
-
-
-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",LIGA BRI 1 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",lIGA BRI1 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
