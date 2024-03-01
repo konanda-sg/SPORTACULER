@@ -1836,17 +1836,45 @@ http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827956
 http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827955
 
 ===================================================================================================================================================================
-
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 1 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828068
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 2 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828067
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 3 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828066
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 4 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828065
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 5 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828064
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 6 HD
 http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828063
 #EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️",OPTUS 7 HD
