@@ -1049,31 +1049,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 ==============================================================================================================================
-#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="" group-title="⬇️SPORT⬇️",Astro SuperSport 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="" group-title="⬇️SPORT⬇️",Astro SuperSport 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="" group-title="⬇️SPORT⬇️",Astro SuperSport 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="" group-title="⬇️SPORT⬇️",Astro SuperSport 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
-
-
-
-
-
-
 
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1128,27 +1103,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 group-title="⬇️SPORT⬇️" tvg-id="useesport.id" tvg-logo="https://i.imgur.com/DeA35re.png",UseeSports 1 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
  
-#EXTINF:-1 group-title="⬇️SPORT⬇️" tvg-id="useesports2.id" tvg-logo="https://i.imgur.com/QanFnCo.png",UseeSports 2 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORTS 1 4K" tvg-logo="" group-title="⬇️SPORT⬇️", ASTRO SUPERSPORTS 1 4K
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828100
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORTS 2 4K" tvg-logo="" group-title="⬇️SPORT⬇️" ASTRO SUPERSPORTS 2 4K
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828099
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 1 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828098
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 2 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828097
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 3 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828096
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️",ASTRO SPORTS 4 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828095
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 5 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828094
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX" tvg-logo="https://docdog.top/logo/countries/india/sony-six-hd-in.png" group-title="⬇️SPORT⬇️", SONY SIX
-http://vipfatu.xyz:8080/VIP0177169827643030/51698276430400/7320
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️",ASTRO SPORTS 1 HD
+http://protv.fun:80/b7b8c490e690/9ba37c198c8d/918986
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 2 HD
+http://protv.fun:80/b7b8c490e690/9ba37c198c8d/918985
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 3 HD
+http://protv.fun:80/b7b8c490e690/9ba37c198c8d/918984
+#EXTINF:-1 tvg-id="" tvg-name="UK| ASTRO SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="⬇️SPORT⬇️", ASTRO SPORTS 4 HD
+http://protv.fun:80/b7b8c490e690/9ba37c198c8d/918983
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/india/sony-ten-1-in.png" group-title="⬇️SPORT⬇️", Sony Sports Ten 1
@@ -1468,7 +1430,7 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="13.SPORT",Tnt 3 
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+https://catowrap.live/mrgamingbtsport3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="13.SPORT",Tnt 4 
