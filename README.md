@@ -11,9 +11,7 @@ https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-In
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="YOUTUBE" tvg-logo="https://i.ibb.co/mHMWqqg/Logo-You-Tube.png" group-title="✅ YOUTUBE✅",SANTRI PEKOK 
 https://www.dropbox.com/scl/fi/hh5nnzjylgauvvmkl2fmj/SANTRI-PEKOK-Difarina-Indra-Adella-Ft-Fendik-Adella-OM-ADELLA_480p.mp4?rlkey=c21ldkcssrns53dot7grp7s28&dl=1
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🏆BWF🏆", BATC COURT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://etslive-2-vidio-com.akamaized.net/exp=1708263442~acl=/hls-p/ingest_17072_*/*~hmac=bd6556ef3df814b54809ce9ed6969328b0a69da7335eab29833b236ff1e6bfea/hls-p/ingest_17072_1080p/index.m3u8
+
 
 
 
@@ -104,6 +102,36 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/stre
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+
+==========================================================================================================================================================================
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 2
+http://xtv.ooo:8080/3212571066/abc123/350972
+ 
+ 
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+ 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️LIGA BRI⚽️",LIGA BRI 6
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+
+
+
 ======================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gp2wz1R/soccerchannel.png" group-title="💚MNC VISION💚", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -837,20 +865,6 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
 ==================================================================================================================================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",lIGA BRI
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",lIGA BRI1 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🇮🇩⚽️LIGA BRI⚽️🇮🇩 ",lIGA BRI 2 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 
 
