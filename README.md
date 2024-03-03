@@ -147,13 +147,14 @@ http://103.113.116.150:25461/mtm1/12345/54
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7653919b2839505813631d6c97f6af5:4490e856a68a11eea09951bfa684eea9
+#KODIPROP:inputstream.adaptive.license_key=558b54e3d4978eedbfbf2ad215334c84:4cc048dd3b696021198659d6c1e5bc1e
 https://uraa.pencarijanda.workers.dev/index.mpd?id=cham5
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="👉LIGA EROPA👈",PREMIER LEAGUE​ 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7653919b2839505813631d6c97f6af5:4490e856a68a11eea09951bfa684eea9
+#KODIPROP:inputstream.adaptive.license_key=5e9cb6b6b9e0255418d3b255ab669a8b:a90a1b5c23899b0762a5a6230a8813bd
 https://uraa.pencarijanda.workers.dev/index.mpd?id=cham6
 
 
@@ -258,14 +259,14 @@ https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7653919b2839505813631d6c97f6af5:4490e856a68a11eea09951bfa684eea9
+#KODIPROP:inputstream.adaptive.license_key=4a1d8dcff624ed65dea42911cf83213f:ab5c0c6e9a011e4ce633857abf85cd3c
 https://uraa.pencarijanda.workers.dev/index.mpd?id=cham2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",Champ TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7653919b2839505813631d6c97f6af5:4490e856a68a11eea09951bfa684eea9
+#KODIPROP:inputstream.adaptive.license_key=c0a936ec589c01544c248969d72d4c05:0bc7100c65d9b7307f8286e3147f23b4
 https://uraa.pencarijanda.workers.dev/index.mpd?id=cham3
 
 
