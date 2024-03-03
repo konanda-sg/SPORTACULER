@@ -256,7 +256,58 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 ====================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 6 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828063
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️",OPTUS 7 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828062
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 8 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828061
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 9 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828060
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 10 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828059
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 11 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 11 HD
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828058
+#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 12 HD" 
 
 
 ===================================================================================================================================================================
@@ -707,6 +758,41 @@ http://213.13.16.138/shls/LIVE$SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=
 http://213.13.16.138/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="⬇️SPORT⬇️",PT: Sport TV 6 HD
 http://213.13.16.138/shls/LIVE$SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+========================================================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 01" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 01
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827969
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 02" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 02
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827968
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 03" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 03
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827967
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 04" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 04
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827966
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 05" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 05
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827965
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 06" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 06
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827964
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 07" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 07
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827963
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 08" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 08
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827962
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 09" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 09
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827961
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 10" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 10
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827960
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 11" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 11
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827959
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 12" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 12
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827958
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 13" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 13
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827957
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 14" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 14
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827956
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 15" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 15
+http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827955
+
+
+
+
 
 ======================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gp2wz1R/soccerchannel.png" group-title="💚MNC VISION💚", SOCCER CHANNEL
@@ -1653,139 +1739,12 @@ http://aflaxtv.xyz:8080/multi6490/15ff0190/907
 http://aflaxtv.xyz:8080/multi6490/15ff0190/297042
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN FHD" tvg-logo="" group-title="DAZN SPORT",ZONA DAZN FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63984
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 1 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63988
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 2 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63991
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 3 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63994
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 4 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63997
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 5 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64000
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 6 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64003
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 7 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64006
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 8 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64009
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 9 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64012
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 FHD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 FHD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64015
-#EXTINF:-1 tvg-id="" tvg-name="==== Dazn SERIE A  SD ====" tvg-logo="" group-title="DAZN SPORT",==== Dazn SERIE A  SD ====
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/60991
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN h265" tvg-logo="" group-title="DAZN SPORT",ZONA DAZN h265
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63986
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 1 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63990
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 2 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63993
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 3 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/63996
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 4 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64101
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 5 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64002
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 6 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64005
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 7 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64008
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 8 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64011
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 9 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64014
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 SD" tvg-logo="" group-title="DAZN SPORT",DAZN 10 SD
-http://diavoletto.dyndns.org:8080/vitomimmo/mimmovito/64017
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 01" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 01
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827969
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 02" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 02
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827968
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 03" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 03
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827967
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 04" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 04
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827966
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 05" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 05
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827965
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 06" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 06
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827964
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 07" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 07
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827963
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 08" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 08
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827962
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 09" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 09
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827961
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 10" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 10
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827960
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 11" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 11
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827959
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 12" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️",VIDIO LIVE EVENTS | 12
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827958
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 13" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 13
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827957
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 14" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 14
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827956
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIDIO LIVE EVENTS | 15" tvg-logo="http://logo.protv.cc/picons/logos/UK/VIDIO.png" group-title="♦️VIDIO♦️", VIDIO LIVE EVENTS | 15
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/827955
+
 
 ===================================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
-https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
-#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
-https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
-#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
-https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
-#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
-https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
-#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
-https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 6 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828063
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️",OPTUS 7 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828062
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 8 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828061
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 9 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828060
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 10 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 10 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828059
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 11 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 11 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828058
-#EXTINF:-1 tvg-id="" tvg-name="UK - OPTUS 12 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/OPTUS-SPORT.png" group-title=" ⭐️OPTUS SPORTS ⭐️", OPTUS 12 HD
-http://f13.dinott.com:80/3dcaf0a4d9d8/7d45f89de60d/828057
 
 
 
