@@ -255,14 +255,14 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592
 #KODIPROP:inputstream.adaptive.license_key=a7653919b2839505813631d6c97f6af5:4490e856a68a11eea09951bfa684eea9
 https://uraa.pencarijanda.workers.dev/index.mpd?id=cham1
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION ⚽",Champ TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",Champ TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a1d8dcff624ed65dea42911cf83213f:ab5c0c6e9a011e4ce633857abf85cd3c
 https://uraa.pencarijanda.workers.dev/index.mpd?id=cham2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION ⚽",Champ TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",Champ TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.10.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -271,17 +271,17 @@ https://uraa.pencarijanda.workers.dev/index.mpd?id=cham3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",DIGISPORT
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",DIGISPORT
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",SUPER SPORT
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",SUPER SPORT
 http://8.218.71.149:8880/live/bZXLO5K008--eWLG6lFB2rycmIge90Y0f5J6EQiz_BG4UqFpy0mr8Ic4EIf7Fp1ojlH3VngjAd0FkNcCunWREr6ZW3qA-P87TaqTfEroDtKHISRgHw4O5MFhZnmOmZQwztmYo0aK4gaqymIJn3mMj6I3KdFgPQU3pcGnetzRTwF1zmUxMN8LWNYgWPv5I9bqfSsW5WJeO3RwCziObNYGX8C9VVHnPFW7lyloxiX6WWZgxV6t8EYAHvziMrN_FixNABWbfImlvaaxCQoTYgol7r22OV7QpdBf1_o-LGNlwytcPqnDCqanT_CF-XQug5vFKQIOUEG_ORJYPP6QjSQcKg.m3u8?u=1705630354
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",ARENA PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",ARENA PREMIUM
 http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",K+ SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 3" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",K+ SPORT 1
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",K+ SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",K+ SPORT 2
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION LEAGUE⚽",SONY TEN 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="⚽CHAMPION⚽",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 ====================================================================================================================================================
